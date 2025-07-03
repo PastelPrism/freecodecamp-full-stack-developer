@@ -44,8 +44,7 @@ body {
 }
 
 .form-container {
-  background: url('/freecodecamp-legacy/course-responsive-web-design/survey-form/img/painting-splash.png')
-    no-repeat center center fixed;
+  background: url('img/painting-splash.png') no-repeat center center fixed;
   padding: 2em;
   border-radius: 10px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);

@@ -18,13 +18,15 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 This ReadMe is far from done yet, just like this curriculum. But here is an overview of the projects I finished so far.  
 
-1. Camper Bot 
-2. Pet Adoption Page
-3. Build a Recipe Page 
+1. <a href="https://pastelprism.github.io/freecodecamp-full-stack-developer/camper-bot/" target="_blank" rel="noopener noreferrer">Camper Bot</a> 
+2. [Pet Adoption Page](https://pastelprism.github.io/freecodecamp-full-stack-developer/pet-adoption-page/)
+3. [Build a Recipe Page](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/)
+   - 👉 [Extra Challenge: Build a Recipe Page with toggle ingrediënts](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/index-assignment.html)
 4. Build a Travel Agency Page
-5. Build a Video Compilation Page
+5. [Build a Video Compilation Page](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-video-compilation-page/)
 6. Build an Event Hub 
-7. Build a Survey Form
+7. [Build a Survey Form](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-survey-form/)
+   - 👉 [Extra Challenge: Design a survey on a 'painting'](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-survey-form/challenge-page.html)
 8. Build a Book Catalog Table 
 9. Build a Checkout Page 
 10. Design a Movie Review Page 
@@ -36,8 +38,8 @@ This ReadMe is far from done yet, just like this curriculum. But here is an over
 
 Every project comes with **extra challenges** from a teacher who reviews these projects.
 For this one it was building 5 different templates to keep as a placeholder for as long as I'm working these projects.
-Every project will come with it's own extra challenge itself 🥰
-Soon this section will be updated with said extra challenges. 
+Every project will come with it's own extra challenge itself 🥰  
+Soon this section will be updated with said extra challenges, for now the challenges that are done are added in the curriculum overview.  
 
 <img src="assets/pastel-banner.jpg" width="100%" height="5px" />
 
