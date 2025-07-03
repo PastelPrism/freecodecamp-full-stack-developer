@@ -1,0 +1,232 @@
+/* resets and body */
+:root {
+  --electric-purple: #7f00ff; 
+  --neon-pink: #ff007f; 
+  --neon-blue: #00ffff; 
+  --deep-space-blue: #0b0033; 
+  --hot-white: #ffffff; 
+  --cyber-grey: #888888;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: var(--deep-space-blue); 
+  color: var(--hot-white); 
+  line-height: 1.6;
+}
+
+
+/* everything video */
+.video-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1; 
+}
+
+.video-background video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+/* main styling */
+#main {
+  margin: 20px auto;
+  max-width: 960px;
+  background: var(--electric-purple); 
+  padding: 20px;
+  border: 2px solid var(--neon-pink); 
+  border-radius: 10px;
+  box-shadow: 0 0 15px var(--neon-blue); 
+}
+
+/* everything titles */
+#title {
+  text-align: center;
+  font-size: 3em;
+  color: var(--neon-pink); 
+  text-shadow: 0 0 10px var(--neon-blue), 0 0 20px var(--neon-pink);
+  animation: neonPulse 1.5s alternate infinite;
+}
+
+#title-p {
+  font-size: 1.2em;
+  color: var(--neon-blue); 
+  text-shadow: 0 0 5px var(--neon-pink);
+  text-align: center;
+}
+
+h2, #h2-background {
+    background: linear-gradient(45deg, var(--neon-pink), var(--neon-blue)); 
+    padding: 10px 10px;
+    color: var(--hot-white); 
+    border-radius: 5px;
+    box-shadow: 0 0 5px var(--neon-pink), 0 0 5px var(--neon-blue);   
+}
+
+h2 {
+    text-align: center;
+    margin: 10px 20px 32px 20px;
+}
+
+#h2-background {
+    text-align: right;
+}
+
+
+/* everything image */
+#img-div {
+  margin: 20px auto;
+  text-align: center;
+  position: relative;
+}
+
+#image {
+  display: block;           
+  max-width: 100%;          
+  height: auto;             
+  margin: 0 auto;          
+  border-radius: 5px;
+  box-shadow: 0 0 25px var(--neon-blue);
+  transition: transform 0.3s ease-in-out;
+}
+
+#image:hover {
+  transform: scale(1.05);
+}
+
+#img-caption {
+  margin-top: 10px;
+  color: var(--hot-white);
+  font-size: 1.2em;
+  text-shadow: 0 0 5px var(--neon-pink);
+}
+
+/* everything table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+  overflow-x: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 15px var(--neon-blue); 
+  background: var(--cyber-grey);
+  letter-spacing: 0.08em;
+}
+
+table caption {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+table th {
+    text-align: left;
+    vertical-align: top;
+    padding: 12px 18px;
+    border-bottom: 1px solid var(--hot-white);
+}
+
+table td {
+    text-align: right;
+    vertical-align: top;
+    padding: 12px 18px;
+    border-bottom: 1px solid var(--hot-white);
+}
+
+table td ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+table tr:last-child th,
+table tr:last-child td {
+  border-bottom: none;
+}
+
+/* tribute info section */
+#tribute-info {
+  margin-top: 30px;
+  background-color: var(--cyber-grey); 
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 15px var(--neon-blue); 
+  color: var(--hot-white);
+  letter-spacing: 0.08em;
+}
+
+#tribute-info p {
+  margin-bottom: 1em;
+}
+
+/* everything links */
+#tribute-link {
+  display: inline-block;
+  margin-top: 10px;
+  text-decoration: none;
+  font-weight: bold;
+  color: var(--neon-blue); 
+  border: 2px solid var(--neon-pink); 
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+#tribute-link:hover {
+  background-color: var(--neon-pink);
+  transform: scale(1.1);
+}
+
+/* everything footer */
+footer {
+  margin-top: 40px;
+  padding: 20px 0;
+  text-align: center;
+  background: linear-gradient(90deg, var(--neon-blue), var(--neon-pink));
+  color: var(--hot-white);
+  font-size: 1.1em;
+  letter-spacing: 0.08em;
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 -2px 15px var(--neon-blue);
+}
+
+footer a {
+  color: var(--hot-white);
+  text-decoration: underline;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+footer a:hover {
+  color: var(--neon-pink);
+  text-shadow: 0 0 8px var(--neon-blue);
+}
+
+/* keyframes */
+@keyframes neonPulse {
+  from {
+    text-shadow: 0 0 10px var(--neon-blue), 0 0 20px var(--neon-pink);
+  }
+  to {
+    text-shadow: 0 0 20px var(--neon-pink), 0 0 30px var(--neon-blue);
+  }
+}
+

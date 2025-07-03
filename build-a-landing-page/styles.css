@@ -1,0 +1,78 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  height: 100%;
+}
+
+body.leaf-template {
+  background: linear-gradient(135deg, #ffecd2, #fcb69f);
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  text-align: center;
+  padding: 30px;
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+#typing {
+  font-size: 1.8rem;
+  font-family: 'Courier New', Courier, monospace;
+  color: #555;
+}
+
+/* Styles for disclaimer */
+
+.disclaimer-section {
+  background: linear-gradient(90deg, #f2f2f2, #e0e0e0);
+  border: 1px solid #ccc;
+  padding: 20px 30px;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 80%;
+  width: 100%;
+  font-size: 0.95rem;
+  text-align: center;
+  color: #555;
+  line-height: 1.5;
+  font-family: 'Arial', sans-serif;
+}
+
+.disclaimer-section strong {
+  color: #d9534f;
+  font-size: 1.1rem;
+}
+
+.disclaimer-section a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.disclaimer-section a:hover {
+  color: #0056b3;
+}
+
+.leaf {
+  width: 150px;
+  height: 250px;
+  background: linear-gradient(135deg, #4CAF50, #8BC34A);
+  border-radius: 50% 50% 40% 40% / 60% 60% 40% 40%;
+  transform: rotate(45deg);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  margin: 40px auto;
+}

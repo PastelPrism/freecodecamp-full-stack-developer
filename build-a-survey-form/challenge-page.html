@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Writing on Paintings - Survey Form</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a href="index.html" class="nav-button">Back to the original assignment</a>
+    <div class="painting">
+      <div class="form-container">
+        <h1 id="title">Writing on Paintings Survey Form</h1>
+        <p id="description">
+          Please fill out this survey form, if you like to write on someone elses paintings.
+        </p>
+        <form id="survey-form">
+          <label id="name-label" for="name">Name:</label>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Enter your name"
+            required
+          />
+
+          <label id="email-label" for="email">Email:</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email"
+            required
+          />
+
+          <label id="number-label" for="number">Age:</label>
+          <input
+            type="number"
+            id="number"
+            name="age"
+            placeholder="Enter your age"
+            min="6"
+            max="100"
+          />
+
+          <label for="dropdown">
+            Did you ever write on someone elses painting?:
+          </label>
+          <select id="dropdown">
+            <option value="select-option">Select an option</option>
+            <option value="yes-option">Yes</option>
+            <option value="no-option">No</option>
+          </select>
+
+          <p>
+            In case of "yes" please continue this survey, in case of "no" please
+            proceed to our comment section.
+          </p>
+
+          <p>Choose your reason why:</p>
+          <div class="option-container">
+            <label>
+              <input type="radio" name="reason-why" value="no-reason" />
+              Just because
+            </label>
+            <label>
+              <input type="radio" name="reason-why" value="art-reason" />
+              Because art and survey forms go pretty well together
+            </label>
+          </div>
+
+          <p>Select your favorite writing tool:</p>
+          <div class="option-container">
+            <label>
+              <input type="checkbox" name="favorite-style" value="interest1" />
+              Crayons
+            </label>
+            <label>
+              <input type="checkbox" name="favorite-style" value="interest2" />
+              Markers
+            </label>
+          </div>
+
+          <label for="comments">
+            Please tell us why you wanted to fill out this survey:
+          </label>
+          <textarea
+            id="comments"
+            name="comments"
+            placeholder="Enter any reason"
+          ></textarea>
+
+          <input type="submit" id="submit" value="Submit" />
+        </form>
+      </div>
+    </div>
+    <footer>
+      <p>
+        &copy; 2025 project from freeCodeCamp - made by
+        <a href="https://www.github.com/PastelPrism">Amy</a>
+      </p>
+    </footer>
+  </body>
+</html>

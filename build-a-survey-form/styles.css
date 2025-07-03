@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Permanent Marker', cursive;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  color: white;
+}
+
+
+.nav-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  padding: 10px 15px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: 'Permanent Marker', cursive;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+
+.painting {
+  padding: 20px;
+  border: 10px solid #a67c52; 
+  background: #0a0a0a; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  max-width: 800px;
+  width: 100%;
+}
+
+.form-container {
+  background: url('/freecodecamp-legacy/course-responsive-web-design/survey-form/img/painting-splash.png')
+    no-repeat center center fixed;
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+h1#title {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.5em;
+  text-align: center;
+  color: white;
+  margin-bottom: 0.5em;
+}
+
+p#description {
+  text-align: center;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+
+label {
+  margin-top: 1em;
+  display: block;
+  font-weight: bold;
+}
+
+input[type="text"], input[type="email"], input[type="number"], select, textarea {
+  width: 100%;
+  padding: 8px;
+  margin-top: 0.5em;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+input[type="submit"] {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+  margin-top: 1em;
+  transition: background-color 0.3s ease;
+}
+
+input[type="submit"]:hover {
+  background-color: #555;
+}
+
+
+.option-container label {
+  display: inline-block;
+  margin-right: 10px;
+  font-weight: normal;
+}
+
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.8em;
+  color: #666;
+}
+
+footer a {
+  text-decoration: none;
+  color: #333;
+}
