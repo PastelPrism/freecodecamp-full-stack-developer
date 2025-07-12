@@ -18,7 +18,7 @@ The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, man
 
 This ReadMe is far from done yet, just like this curriculum. But here is an overview of the projects I finished so far.  
 
-1. <a href="https://pastelprism.github.io/freecodecamp-full-stack-developer/camper-bot/" target="_blank" rel="noopener noreferrer">Camper Bot</a> 
+1. [Camper Bot](https://pastelprism.github.io/freecodecamp-full-stack-developer/camper-bot/) 
 2. [Pet Adoption Page](https://pastelprism.github.io/freecodecamp-full-stack-developer/pet-adoption-page/)
 3. [Build a Recipe Page](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/)
    - 👉 [Extra Challenge: Build a Recipe Page with toggle ingrediënts](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/index-assignment.html)
