@@ -35,7 +35,40 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 <details>
 <summary><strong>View all the projects from the HTML section (Click to expand)</strong></summary>
 
-#### 1. **Build a Curriculum Outline**
+#### [1. **Build a Curriculum Outline**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-curriculum-outline)
+
+- **Languages:** HTML
+- **Practical Activity:** Workshop
+- **Assignment Description:** Add headers and P's step by step
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-curriculum-outline/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### [2. **Debug Camperbots Profile Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/camper-bot)
+
+- **Languages:** HTML
+- **Practical Activity:** Workshop
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/camper-bot/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### [3. **Debug a Pet Adoption Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/pet-adoption-page)
+
+- **Languages:** HTML
+- **Practical Activity:** Workshop
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/pet-adoption-page/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### [4. **Build a Cat Photo App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-photo-app)
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
@@ -46,7 +79,40 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 2. **Debug Camperbots Profile Page**
+#### [5. **Build a Recipe Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-recipe-page)
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ✅
+
+#### [6. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### [7. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-compilation-page)
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-video-compilation-page/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### [8. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
@@ -57,7 +123,18 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 3. **Debug a Pet Adoption Page**
+#### [9. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-hub)
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### [10. **Build a Hotel Feedback Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-hotel-feedback-form)
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
@@ -68,7 +145,18 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 4. **Build a Cat Photo App**
+#### [11. **Build a Survey Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-survey-form)
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-survey-form/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ✅
+
+#### [12. **Build a Final Exams Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-final-exams-table)
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
@@ -79,7 +167,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 5. **Build a Recipe Page**
+#### [13. **Build a Book Catalog Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-catalog-table)
 
 - **Languages:** HTML
 - **Practical Activity:** Lab
@@ -90,7 +178,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 6. **Build a Travel Agency Page**
+#### [14. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-checkout-page)
 
 - **Languages:** HTML
 - **Practical Activity:** Lab
@@ -101,115 +189,34 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 7. **Build a Video Compilation Page**
+#### [15. **Design a Movie Review Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-movie-review-page)
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-movie-review-page/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### [16. **Build a Multimedia Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-multimedia-player)
 
 - **Languages:** HTML
 - **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 8. **Build a Cat Blog Page**
+</details>
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+### **CSS Projects**
 
-#### 9. **Build an Event Hub**
-
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 10. **Build a Hotel Feedback Form**
-
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 11. **Build a Survey Form**
-
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 12. **Build a Final Exams Table**
-
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 13. **Build a Book Catalog Table**
-
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 14. **Build a Checkout Page**
-
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 15. **Design a Movie Review Page**
-
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 16. **Build a Multimedia Player**
-
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+<details>
+<summary><strong>View all the projects from the CSS section (Click to expand)</strong></summary>
 
 #### 17. **Project Title**
 
