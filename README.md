@@ -145,7 +145,18 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 11. **Project Title**
+#### 11. **Build a Survey Form**
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### 12. **Build a Final Exams Table**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
@@ -156,10 +167,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 12. **Project Title**
+#### 13. **Build a Book Catalog Table**
 
 - **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
@@ -167,10 +178,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 13. **Project Title**
+#### 14. **Build a Checkout Page**
 
 - **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
@@ -178,10 +189,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 14. **Project Title**
+#### 15. **Design a Movie Review Page**
 
 - **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
@@ -189,21 +200,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 15. **Project Title**
+#### 16. **Build a Multimedia Player**
 
 - **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 16. **Project Title**
-
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
