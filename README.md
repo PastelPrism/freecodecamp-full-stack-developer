@@ -68,17 +68,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 4. **Project Title**
-
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-#### 5. **Project Title**
+#### 4. **Build a Cat Photo App**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
@@ -89,7 +79,40 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 6. **Project Title**
+#### 5. **Build a Recipe Page**
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### 6. **Build a Travel Agency Page**
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### 7. **Build a Video Compilation Page**
+
+- **Languages:** HTML
+- **Practical Activity:** Lab
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
+#### 8. **Build a Cat Blog Page**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
@@ -100,10 +123,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 7. **Project Title**
+#### 9. **Build an Event Hub**
 
 - **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
@@ -111,29 +134,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 8. **Project Title**
-
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 9. **Project Title**
-
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
-
-#### 10. **Project Title**
+#### 10. **Build a Hotel Feedback Form**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
