@@ -522,891 +522,891 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 46. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 47. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 48. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 49. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 50. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 51. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 52. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 53. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 54. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 55. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 56. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 57. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 58. **Project Title**
 
- **Languages:** HTML
+- **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 59. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 60. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 61. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 62. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 63. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 64. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 65. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 66. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 67. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 68. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 69. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 70. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 71. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 72. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 73. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 74. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 75. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 76. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 77. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 78. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 79. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 80. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 81. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 82. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 83. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 84. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 85. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 86. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 87. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 88. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 89. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 90. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 91. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 92. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 93. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 94. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 95. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 96. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 97. **Project Title**
 
--- **Languages:** HTML
+- **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 98. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 99. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 100. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 101. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 102. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 103. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 104. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 105. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 106. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 107. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 108. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 109. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 110. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 111. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 112. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 113. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 114. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 115. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 116. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 117. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 118. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 119. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 120. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 121. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 122. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 123. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 124. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 #### 125. **Project Title**
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Page:** _Soon_
-- **Extra Challenge Page:** _Soon_
 - **Assignment Description:** _Soon_
-- **Extra Challenge Description:** _Soon_
+- **Assignment Page:** _Soon_
 - **Assignment Status:** _Soon_
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
 </details>
