@@ -26,8 +26,8 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 10/125  | **Total Completed:** 5/125  |
-|  **Remaining:** 115          | **Remaining:** 120          |
+|  **Total Completed:** 11/125  | **Total Completed:** 5/125  |
+|  **Remaining:** 114          | **Remaining:** 120          |
 | **Progress:** 8.0% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
@@ -114,11 +114,11 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [8. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build step-by-step a blogpage for Mr Whiskers, including article posts, an about me and contact details_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-blog-page/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
