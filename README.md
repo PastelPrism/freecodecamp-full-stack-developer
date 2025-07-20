@@ -35,14 +35,14 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 <details>
 <summary><strong>View all the projects from the HTML section (Click to expand)</strong></summary>
 
-#### [1. **Build a Curriculum Outline**]("https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-curriculum-outline" target="_blank")
+#### [1. **Build a Curriculum Outline**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-curriculum-outline)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** Add headers and paragraphs step by step
+- **Languages:** _HTML_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Add headers and paragraphs step by step_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-curriculum-outline/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** Make a static, a styled and an interactive paragraph.
+- **Extra Challenge Description:** _Make a static, a styled and an interactive paragraph._
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-curriculum-outline/extra)
 - **Extra Challenge Status:** ✅
 
