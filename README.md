@@ -39,23 +39,23 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
-- **Assignment Description:** _Add headers and paragraphs step by step_
+- **Assignment Description:** _Add headings and paragraphs step by step_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-curriculum-outline/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Make a static, a styled and an interactive paragraph._
+- **Extra Challenge Description:** _Make one static, one styled and one interactive paragraph._
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-curriculum-outline/extra)
 - **Extra Challenge Status:** ✅
 
 #### [2. **Debug Camperbots Profile Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/camper-bot)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Debug the headings and paragraphs_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/camper-bot/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Description:** _Since Camperbot loves puzzles, transform this webpage into an interactive riddle generator using only CSS styling and JavaScript. (keep all original HTML intact)_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/camper-bot/extra)
+- **Extra Challenge Status:** ✅
 
 #### [3. **Debug a Pet Adoption Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/pet-adoption-page)
 
@@ -66,7 +66,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [4. **Build a Cat Photo App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-photo-app)
 
@@ -74,10 +74,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [5. **Build a Recipe Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-recipe-page)
 
@@ -96,10 +96,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [7. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-compilation-page)
 
@@ -110,7 +110,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [8. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
 
@@ -118,10 +118,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [9. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-hub)
 
@@ -129,10 +129,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [10. **Build a Hotel Feedback Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-hotel-feedback-form)
 
@@ -140,10 +140,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [11. **Build a Survey Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-survey-form)
 
@@ -162,10 +162,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [13. **Build a Book Catalog Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-catalog-table)
 
@@ -173,10 +173,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [14. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-checkout-page)
 
@@ -184,10 +184,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Practical Activity:** Lab
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [15. **Design a Movie Review Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-movie-review-page)
 
@@ -198,7 +198,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [16. **Build a Multimedia Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-multimedia-player)
 
@@ -209,7 +209,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 </details>
 
