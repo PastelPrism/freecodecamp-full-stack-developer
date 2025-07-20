@@ -1,0 +1,270 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva;
+  background: #e0c7c7;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background: #bb97eb;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+}
+
+nav {
+  background: #dd4dc5;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+nav li {
+  margin: 0 .5rem;
+}
+
+nav a {
+  display: block;
+  padding: .75rem 1.25rem;
+  color: white;
+  text-decoration: none;
+  transition: background .3s;
+}
+
+nav a:hover {
+  background: #575757;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.pet-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.5rem;
+}
+
+.pet-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.pet-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+  height: 200px;
+}
+
+.placeholder-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(128, 128, 128, 0.7);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  letter-spacing: 2px;
+}
+
+.pet-card .info {
+  padding: 1rem;
+  flex: 1;
+}
+
+.card-footer {
+  padding: 0.5rem 1rem 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.card-footer .credits {
+  font-size: 0.8rem;
+  color: #666;
+  text-align: right;
+  margin: 0;
+  font-style: italic;
+}
+
+.pet-card h3 {
+  margin-bottom: .5rem;
+}
+
+.pet-card p {
+  font-size: .9rem;
+  margin-bottom: 1rem;
+}
+
+.pet-card button {
+  padding: .6rem;
+  border: none;
+  width: 100%;
+  font-size: 1rem;
+  cursor: pointer;
+  background: #4CAF50;
+  color: white;
+  transition: background .2s;
+  border-top: 1px solid #e5e5e5;
+}
+
+.pet-card button:disabled {
+  background: #888;
+  cursor: not-allowed;
+}
+
+.pet-card button:hover:not(:disabled) {
+  background: #45a049;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem 0;
+  background: #dd4dc5;
+  color: white;
+  margin-top: 3rem;
+  font-size: .9rem;
+}
+
+/* Modal Styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  background-color: white;
+  margin: 5% auto;
+  padding: 0;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 600px;
+  max-height: 80vh;
+  overflow-y: auto;
+  position: relative;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  position: absolute;
+  right: 20px;
+  top: 15px;
+  z-index: 1001;
+  cursor: pointer;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal-image {
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 10px 10px 0 0;
+}
+
+.modal-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.modal-info {
+  padding: 20px;
+}
+
+.modal-info h2 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.modal-info p {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.modal-info strong {
+  color: #555;
+}
+
+.adopt-btn {
+  width: 100%;
+  padding: 12px;
+  background: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 15px;
+  transition: background 0.3s;
+}
+
+.adopt-btn:hover:not(:disabled) {
+  background: #45a049;
+}
+
+.adopt-btn:disabled {
+  background: #888;
+  cursor: not-allowed;
+}
+
+@media (min-width: 768px) {
+  .modal-body {
+    flex-direction: row;
+  }
+  
+  .modal-image {
+    width: 50%;
+    height: 300px;
+    border-radius: 10px 0 0 10px;
+  }
+  
+  .modal-info {
+    width: 50%;
+    padding: 30px;
+  }
+}
