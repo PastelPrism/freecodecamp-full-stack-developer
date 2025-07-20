@@ -26,9 +26,9 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 8/125  | **Total Completed:** 3/125  |
-|  **Remaining:** 117          | **Remaining:** 122          |
-| **Progress:** 5.6% Complete | **Progress:** 3.2% Complete |
+|  **Total Completed:** 9/125  | **Total Completed:** 5/125  |
+|  **Remaining:** 116          | **Remaining:** 120          |
+| **Progress:** 7.2% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
 
@@ -70,24 +70,24 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [4. **Build a Cat Photo App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-photo-app)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Set up a basic html website about cats, from !Doctype to footer_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-photo-app/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 #### [5. **Build a Recipe Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-recipe-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML_ 
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a page with recipes for pancakes. The page should have an ordered and unordered list_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Description:** _Build a stylish page for the pancake recipe. Make it interactive by adding toggle functions for the ingredients and instructions section_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/index-challenge.html)
 - **Extra Challenge Status:** ✅
 
 #### [6. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
