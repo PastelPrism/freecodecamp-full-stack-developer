@@ -59,14 +59,14 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [3. **Debug a Pet Adoption Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/pet-adoption-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Debug the headings and paragraphs to pass_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/pet-adoption-page/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Build an interactive website for a Pet Adoption Agency. The website should display detailed information about each pet when clicked. The site should clearly indicate which pets are available for adoption and which have already found homes._
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/pet-adoption-page/extra)
+- **Extra Challenge Status:** But still under 🛠️
 
 #### [4. **Build a Cat Photo App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-photo-app)
 
