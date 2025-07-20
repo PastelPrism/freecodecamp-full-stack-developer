@@ -26,9 +26,9 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 9/125  | **Total Completed:** 5/125  |
-|  **Remaining:** 116          | **Remaining:** 120          |
-| **Progress:** 7.2% Complete | **Progress:** 4.0% Complete |
+|  **Total Completed:** 10/125  | **Total Completed:** 5/125  |
+|  **Remaining:** 115          | **Remaining:** 120          |
+| **Progress:** 8.0% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
 
@@ -92,19 +92,19 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [6. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a page for a travel agency. Add images - including figcaptions, a list and various paragraphs._
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-travel-agency-page/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 #### [7. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-compilation-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Lab
+- **Languages:** _HTML_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-video-compilation-page/)
 - **Assignment Status:** ✅
