@@ -26,8 +26,8 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 7/125  | **Total Completed:** 3/125  |
-|  **Remaining:** 118          | **Remaining:** 122          |
+|  **Total Completed:** 8/125  | **Total Completed:** 3/125  |
+|  **Remaining:** 117          | **Remaining:** 122          |
 | **Progress:** 5.6% Complete | **Progress:** 3.2% Complete |
 
 ### **HTML Projects**
@@ -35,16 +35,16 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 <details>
 <summary><strong>View all the projects from the HTML section (Click to expand)</strong></summary>
 
-#### [1. **Build a Curriculum Outline**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-curriculum-outline)
+#### [1. **Build a Curriculum Outline**]("https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-curriculum-outline" target="_blank")
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
-- **Assignment Description:** Add headers and P's step by step
+- **Assignment Description:** Add headers and paragraphs step by step
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-curriculum-outline/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Description:** Make a static, a styled and an interactive paragraph.
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-curriculum-outline/extra)
+- **Extra Challenge Status:** ✅
 
 #### [2. **Debug Camperbots Profile Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/camper-bot)
 
