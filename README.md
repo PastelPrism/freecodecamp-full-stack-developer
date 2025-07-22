@@ -26,9 +26,9 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 11/125  | **Total Completed:** 5/125  |
-|  **Remaining:** 114          | **Remaining:** 120          |
-| **Progress:** 8.0% Complete | **Progress:** 4.0% Complete |
+|  **Total Completed:** 14/125  | **Total Completed:** 5/125  |
+|  **Remaining:** 111           | **Remaining:** 120          |
+| **Progress:** 11.2% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
 
@@ -147,8 +147,8 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [11. **Build a Survey Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-survey-form)
 
-- **Languages:** HTML
-- **Practical Activity:** Lab
+- **Languages:** _HTML_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-survey-form/)
 - **Assignment Status:** ✅
@@ -158,11 +158,11 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [12. **Build a Final Exams Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-final-exams-table)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _HTML_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-final-exams-table/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
