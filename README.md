@@ -7,16 +7,16 @@
 
 Hi there!👋
 
-Last **April 2025** I got challenged to do **every web development course** we could find. A challenge I happily accepted. 🎉
-And this projectfolder is a big part of that challenge as this is the main project folder for all the projects from [freeCodeCamp!](https://www.freecodecamp.org) Certified Full Stack Developer Curriculum.
+In **April 2025** I got challenged to do **every web development course** we could find. A challenge I happily accepted. 🎉
+This project folder is a big part of that challenge as this is the main project folder for all the projects from [freeCodeCamp!](https://www.freecodecamp.org) Certified Full Stack Developer Curriculum.
 
 <img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
 
 ## 🎓 Curriculum Overview
 
-The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, many, _many_ practice projects, real life projects, quizzes, lectures, reviews and workshops. It's a true treasure this curriculum.
+The freeCodeCamp Certified Full Stack Developer Curriculum consists of many, many, _many_ practice projects, real-life projects, quizzes, lectures, reviews and workshops. It's truly a treasure, this curriculum.
 
-This ReadMe and especially this section, is far from done yet, and will be updated
+This README is a bit messy here and there, but it will become better in a few weeks or months.
 
 <img src="assets/pastel-banner.jpg" width="100%" height="5px" />
 
@@ -26,9 +26,9 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 15/125  | **Total Completed:** 5/125  |
-|  **Remaining:** 110           | **Remaining:** 120          |
-| **Progress:** 11.2% Complete | **Progress:** 4.0% Complete |
+|  **Total Completed:** 16/125  | **Total Completed:** 5/125  |
+|  **Remaining:** 109           | **Remaining:** 120          |
+| **Progress:** 12.8% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
 
@@ -105,7 +105,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Soon_
+- **Assignment Description:** _Create a page with video's, practice with the Iframe_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-video-compilation-page/)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
@@ -149,18 +149,18 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Soon_
+- **Assignment Description:** _Build a survey form with labels, the required attribute and various projects_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-survey-form/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Description:** _Design and build a survey form that looks like a it's written on a painting_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-survey-form/challenge-page)
 - **Extra Challenge Status:** ✅
 
 #### [12. **Build a Final Exams Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-final-exams-table)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
+- **Assignment Description:** _A step-by-step practice for HTML tables_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-final-exams-table/)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
@@ -172,7 +172,7 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a book catalog table with elements such as thead, tbody, th, tr, and td._
-- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-book-catalog-table/)_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-book-catalog-table/)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -180,20 +180,20 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [14. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-checkout-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:**_ HTML_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build an accessible checkout page_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-checkout-page/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
 #### [15. **Design a Movie Review Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-movie-review-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Create a movie review page with alt attributes, accessible lists, and make use of aria-hidden._
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-movie-review-page/)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
@@ -202,10 +202,10 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [16. **Build a Multimedia Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-multimedia-player)
 
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
+- **Languages:** _HTML_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a multimedia player with audio and video elements_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-multimedia-player/)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -1431,7 +1431,7 @@ If you think you can help me through all of this, for comments, feedback ,to hel
 
 ##### ℹ️ _P.S._ _P.S._ _P.S._ _P.S._ _P.S._
 
-A little fun fact while you wait for this ReadMe to finish.
+A little fun fact while you wait for this README to finish.
 
 💡 Did you know that animals can experience time differently from humans?  
 To smaller animals the world moves much slower! So if you are ever late, just tell your boss that you were accidently living on Salamander time 🦎
