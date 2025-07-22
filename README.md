@@ -26,8 +26,8 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 14/125  | **Total Completed:** 5/125  |
-|  **Remaining:** 111           | **Remaining:** 120          |
+|  **Total Completed:** 15/125  | **Total Completed:** 5/125  |
+|  **Remaining:** 110           | **Remaining:** 120          |
 | **Progress:** 11.2% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
@@ -169,11 +169,11 @@ This ReadMe and especially this section, is far from done yet, and will be updat
 
 #### [13. **Build a Book Catalog Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-catalog-table)
 
-- **Languages:** HTML
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a book catalog table with elements such as thead, tbody, th, tr, and td._
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-book-catalog-table/)_
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
