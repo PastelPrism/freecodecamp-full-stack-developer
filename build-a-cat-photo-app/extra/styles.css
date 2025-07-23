@@ -15,7 +15,18 @@
 body {
   margin: 0;
   font-family: var(--font-body);
-  background: #f0a9d5;
+  background: linear-gradient(135deg, 
+    #ffeaa7 0%,    /* Pastel yellow */
+    #fab1a0 15%,   /* Pastel orange */
+    #fd79a8 30%,   /* Pastel pink */
+    #e17055 45%,   /* Pastel coral */
+    #a29bfe 60%,   /* Pastel purple */
+    #74b9ff 75%,   /* Pastel blue */
+    #00cec9 90%,   /* Pastel teal */
+    #55a3ff 100%   /* Pastel light blue */
+  );
+  background-attachment: fixed;
+  min-height: 100vh;
   color: #333;
 }
 
