@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 16/125  | **Total Completed:** 5/125  |
-|  **Remaining:** 109           | **Remaining:** 120          |
+|  **Total Completed:** 16/125  | **Total Completed:** 6/125  |
+|  **Remaining:** 109           | **Remaining:** 119          |
 | **Progress:** 12.8% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
@@ -75,9 +75,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Description:** _Set up a basic html website about cats, from !Doctype to footer_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-photo-app/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Create a lightbox that scrolls forever with cat pictures_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-photo-app/extra)
+- **Extra Challenge Status:** ✅
 
 #### [5. **Build a Recipe Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-recipe-page)
 
