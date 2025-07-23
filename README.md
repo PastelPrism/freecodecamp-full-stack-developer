@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 18/125  | **Total Completed:** 6/125  |
-|  **Remaining:** 107           | **Remaining:** 119          |
-| **Progress:** 12.8% Complete | **Progress:** 4.0% Complete |
+|  **Total Completed:** 19/125  | **Total Completed:** 6/125  |
+|  **Remaining:** 106           | **Remaining:** 119          |
+| **Progress:** 15.2% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
 
@@ -227,7 +227,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [18. **Design a Businesscard**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-businesscard)
 
@@ -238,18 +238,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** _⏳
 
-#### 19. **Project Title**
+#### [19. **Build a Stylized To-do List**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-todo-list)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a to-do list with different hover colors and styles_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-todo-list/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 20. **Project Title**
 
