@@ -15,7 +15,7 @@
 body {
   margin: 0;
   font-family: var(--font-body);
-  background: #fafafa;
+  background: #f0a9d5;
   color: #333;
 }
 
@@ -26,6 +26,207 @@ header {
   color: var(--text-light);
   padding: 20px;
   text-align: center;
+}
+
+header h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin: 0;
+}
+
+/* Cat Face Styling */
+.cat-face {
+  position: relative;
+  display: inline-block;
+  height: 2.5rem;
+  width: 2.5rem;
+  order: -1;
+}
+
+.cat-head {
+  position: relative;
+  width: 2.5rem;
+  height: 2rem;
+  background: var(--text-light);
+  border-radius: 50% 50% 45% 45%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--accent-gold);
+}
+
+.cat-ears {
+  position: absolute;
+  top: -0.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 1rem;
+}
+
+.ear-left,
+.ear-right {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-left: 0.5rem solid transparent;
+  border-right: 0.5rem solid transparent;
+  border-bottom: 0.8rem solid var(--text-light);
+  border-radius: 0;
+}
+
+.ear-left {
+  left: -0.1rem;
+  transform: rotate(-25deg);
+}
+
+.ear-right {
+  right: -0.1rem;
+  transform: rotate(25deg);
+}
+
+.eye {
+  position: absolute;
+  width: 0.25rem;
+  height: 0.25rem;
+  background: #333;
+  border-radius: 50%;
+  top: 0.5rem;
+}
+
+.left-eye {
+  left: 0.7rem;
+}
+
+.right-eye {
+  right: 0.7rem;
+}
+
+.nose {
+  position: absolute;
+  width: 0.15rem;
+  height: 0.12rem;
+  background: #ff69b4;
+  border-radius: 50% 50% 50% 50%;
+  top: 0.8rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.mouth {
+  position: absolute;
+  width: 0.5rem;
+  height: 0.25rem;
+  border: 2px solid #333;
+  border-top: none;
+  border-radius: 0 0 50% 50%;
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: transparent;
+}
+
+.whiskers {
+  position: absolute;
+  top: 0.7rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 0.6rem;
+}
+
+.whisker {
+  position: absolute;
+  width: 1.5rem;
+  height: 1px;
+  background: #333;
+  border-radius: 1px;
+}
+
+.whisker-left-1 {
+  left: -0.2rem;
+  top: 0.1rem;
+  transform: rotate(30deg);
+}
+
+.whisker-left-2 {
+  left: -0.2rem;
+  top: 0.3rem;
+  transform: rotate(0deg);
+}
+
+.whisker-right-1 {
+  right: -0.2rem;
+  top: 0.1rem;
+  transform: rotate(-30deg);
+}
+
+.whisker-right-2 {
+  right: -0.2rem;
+  top: 0.3rem;
+  transform: rotate(0deg);
+}
+
+.whisker-left-3 {
+  left: -0.2rem;
+  top: 0.5rem;
+  transform: rotate(-30deg);
+}
+
+.whisker-right-3 {
+  right: -0.2rem;
+  top: 0.5rem;
+  transform: rotate(30deg);
+}
+
+/* Cat Paw Styling */
+.cat-paw {
+  position: relative;
+  display: inline-block;
+  height: 3.5rem;
+  width: 2.8rem;
+  order: 2;
+  align-self: flex-start;
+  margin-top: -0.5rem;
+}
+
+.paw-pad-main {
+  position: absolute;
+  width: 1.8rem;
+  height: 1.4rem;
+  background: var(--text-light);
+  border: 2px solid var(--accent-gold);
+  border-radius: 50% 50% 60% 60%;
+  bottom: 0.3rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.paw-toe {
+  position: absolute;
+  width: 0.6rem;
+  height: 0.6rem;
+  background: var(--text-light);
+  border: 2px solid var(--accent-gold);
+  border-radius: 50%;
+}
+
+.paw-toe-1 {
+  top: 1rem;
+  left: 0.4rem;
+}
+
+.paw-toe-2 {
+  top: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.paw-toe-3 {
+  top: 1rem;
+  right: 0.4rem;
 }
 
 .carousel-container {
@@ -150,7 +351,7 @@ header {
 }
 
 footer {
-  background: var(--light-primary);
+  background: var(--primary);
   color: var(--text-dim);
   text-align: center;
   padding: 20px;
