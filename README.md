@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 16/125  | **Total Completed:** 6/125  |
-|  **Remaining:** 109           | **Remaining:** 119          |
+|  **Total Completed:** 17/125  | **Total Completed:** 6/125  |
+|  **Remaining:** 108           | **Remaining:** 119          |
 | **Progress:** 12.8% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
@@ -127,7 +127,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Design an event hub with upcoming and past events. Including a header, nav bar and sections with images and articles_
+- **Assignment Description:** _Design an event hub with upcoming and past events. Including a header, navigation bar and sections with images and articles_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-an-event-hub/)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
@@ -218,13 +218,13 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the CSS section (Click to expand)</strong></summary>
 
-#### 17. **Project Title**
+#### [16. **Design a Café Menu**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-cafe-menu)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build a stylish café menu, step by step_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-cafe-menu/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
