@@ -262,60 +262,60 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 21. **Project Title**
+#### [21. **Build an Event Flyer Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-flyer-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
-#### 22. **Project Title**
+#### [22. **Design a Greeting Card**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-greeting-card)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
-#### 23. **Project Title**
+#### [23. **Build a Job Application Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-job-application-form)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
-#### 24. **Project Title**
+#### [24. **Build a Set of Colored Markers**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-set-of-colored-markers)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
-#### 25. **Project Title**
+#### [25. **Design a Set of Colored Boxes**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-set-of-colored-boxes)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 26. **Project Title**
 
