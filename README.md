@@ -26,7 +26,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 19/125  | **Total Completed:** 6/125  |
+|  **Total Completed:** 20/125  | **Total Completed:** 6/125  |
 |  **Remaining:** 106           | **Remaining:** 119          |
 | **Progress:** 15.2% Complete | **Progress:** 4.0% Complete |
 
@@ -251,13 +251,13 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 20. **Project Title**
+#### [20. **Design a Blog Post Card**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-blog-post-card)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML &  CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Design a simple but effective blog post card with margins, paddings, border-radius and different background colors_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-blog-post-card/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
