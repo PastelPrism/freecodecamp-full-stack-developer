@@ -260,14 +260,14 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [21. **Build an Event Flyer Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-flyer-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
+- **Assignment Description:** _Step by step create an event flyer page using absolute and relative CSS_
+- **Assignment Page:** ✅
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
