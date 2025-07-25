@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 20/125  | **Total Completed:** 6/125  |
-|  **Remaining:** 106           | **Remaining:** 119          |
+|  **Total Completed:** 22/125  | **Total Completed:** 6/125  |
+|  **Remaining:** 104           | **Remaining:** 119          |
 | **Progress:** 15.2% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
@@ -288,9 +288,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Description:** _Build a job application form using pseudo classes like :hover, :active, :focus_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-job-application-form/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
