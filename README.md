@@ -310,9 +310,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Description:** _Add background colors to grid items inside a color grid using Hsl, Hex and RGB_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-set-of-colored-boxes/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
