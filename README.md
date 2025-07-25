@@ -299,9 +299,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Description:** _Build a set of Color Markers with different ways to set color values_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-set-of-color-markers/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
