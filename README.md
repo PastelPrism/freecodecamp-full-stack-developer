@@ -26,7 +26,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 22/125  | **Total Completed:** 6/125  |
+|  **Total Completed:** 27/125  | **Total Completed:** 6/125  |
 |  **Remaining:** 104           | **Remaining:** 119          |
 | **Progress:** 15.2% Complete | **Progress:** 4.0% Complete |
 
@@ -328,16 +328,16 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 27. **Project Title**
+#### [27. **Design a Contact Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-contact-form)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Design a contact form with HTML and style it with CSS_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-contact-form/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 28. **Project Title**
 

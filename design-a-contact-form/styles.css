@@ -1,0 +1,36 @@
+.form-container {
+  background-color: pink;
+  border-radius: 4px;
+  padding: 50px 25px;
+  width: 350px;
+}
+
+label {
+  color: purple;
+  margin: 10px 0;
+  display: block;
+}
+
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  box-sizing: border-box;
+}
+
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: lightblue;
+  font-size: 32px;
+  padding: 8px 16px;
+}
+
+button:hover {
+  background-color: rgb(165, 202, 165);
+}
