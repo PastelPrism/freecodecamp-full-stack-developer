@@ -350,7 +350,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 29. **Project Title**
+#### [29. **Build a Confidential Email Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-confidential-email-page)
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
