@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 28/125  | **Total Completed:** 6/125  |
-|  **Remaining:** 97           | **Remaining:** 119          |
-| **Progress:** 22.4% Complete | **Progress:** 4.0% Complete |
+|  **Total Completed:** 33/125  | **Total Completed:** 6/125  |
+|  **Remaining:** 92           | **Remaining:** 119          |
+| **Progress:** 26.4% Complete | **Progress:** 4.0% Complete |
 
 ### **HTML Projects**
 
@@ -383,7 +383,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### [31. **Build a Nutritional Label**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-nutritional-label)
+#### [32. **Build a Nutritional Label**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-nutritional-label)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -394,13 +394,13 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 33. **Project Title**
+#### [33. **Build a Newspaper Article**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-newspaper-article)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a Newspaper article with different kind of fonts and font styles_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-newspaper-article/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
