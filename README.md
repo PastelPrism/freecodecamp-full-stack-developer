@@ -352,22 +352,22 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### [29. **Build a Confidential Email Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-confidential-email-page)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build an email page and mask some content with CSS selectors_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-confidential-email-page/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 30. **Project Title**
+#### [30. **Build a Flexbox Photo Gallery**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flexbox-photo-gallery)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Use Flexbox to build a responsive photo gallery page_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-flexbox-photo-gallery/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
