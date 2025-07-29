@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 35/125  | **Total Completed:** 7/125  |
-|  **Remaining:** 90           | **Remaining:** 118          |
+|  **Total Completed:** 37/125  | **Total Completed:** 7/125  |
+|  **Remaining:** 88           | **Remaining:** 118          |
 | **Progress:** 28% Complete | **Progress:** 5.6% Complete |
 
 ### **HTML Projects**
