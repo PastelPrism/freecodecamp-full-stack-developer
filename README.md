@@ -359,7 +359,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [30. **Build a Flexbox Photo Gallery**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flexbox-photo-gallery)
 
@@ -370,7 +370,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [31. **Build a Page of Playing Cards**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-page-of-playing-cards)
 
@@ -381,7 +381,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [32. **Build a Nutritional Label**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-nutritional-label)
 
@@ -392,7 +392,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [33. **Build a Newspaper Article**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-newspaper-article)
 
@@ -403,7 +403,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [34. **Build a Quiz Webpage**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-quiz-webpage/)
 
@@ -414,7 +414,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [35. **Build a Tribute Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tribute-page/)
 
@@ -427,27 +427,27 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-tribute-page/index-assignment)
 - **Extra Challenge Status:** ✅
 
-#### 36. **Project Title**
+#### [36. **Build a Cat Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-painting/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build step by step a painting of a cat, while learning about CSS positioning_
+- **Assignment Page:**[View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-painting/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
-#### 37. **Project Title**
+#### [37. **Build a House Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-house-painting/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a painting of a house using various CSS positioning properties_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-house-painting/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 38. **Project Title**
 
@@ -455,10 +455,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 39. **Project Title**
 
@@ -466,10 +466,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 40. **Project Title**
 
@@ -477,10 +477,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 41. **Project Title**
 
@@ -488,10 +488,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 42. **Project Title**
 
@@ -499,10 +499,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 43. **Project Title**
 
@@ -510,10 +510,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 44. **Project Title**
 
@@ -521,10 +521,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 45. **Project Title**
 
@@ -532,10 +532,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 46. **Project Title**
 
@@ -543,10 +543,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 47. **Project Title**
 
@@ -554,10 +554,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 48. **Project Title**
 
@@ -565,10 +565,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 49. **Project Title**
 
@@ -576,10 +576,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 50. **Project Title**
 
@@ -587,10 +587,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 51. **Project Title**
 
