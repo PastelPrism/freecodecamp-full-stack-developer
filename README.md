@@ -449,24 +449,24 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 38. **Project Title**
+#### [38. **Build a Balance Sheet**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-balance-sheet/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build a Balance Sheet step by step using pseudo selectors_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-balance-sheet/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 39. **Project Title**
+#### [39. **Build a Book Inventory App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-inventory-app/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Create a Book Inventory app using various CSS attribute selectors_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-book-inventory-app/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
