@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 33/125  | **Total Completed:** 6/125  |
-|  **Remaining:** 92           | **Remaining:** 119          |
-| **Progress:** 26.4% Complete | **Progress:** 4.0% Complete |
+|  **Total Completed:** 35/125  | **Total Completed:** 7/125  |
+|  **Remaining:** 90           | **Remaining:** 118          |
+| **Progress:** 28% Complete | **Progress:** 5.6% Complete |
 
 ### **HTML Projects**
 
@@ -405,27 +405,27 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 34. **Project Title**
+#### [34. **Build a Quiz Webpage**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-quiz-webpage/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build a quiz webpage step by step, following accessibility standards_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-quiz-webpage/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 35. **Project Title**
+#### [35. **Build a Tribute Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tribute-page/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a tribute page about a subject of your own choice_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-tribute-page/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Build a tribute page around Muse during Simulation Theory era. Make use of a video background_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-tribute-page/index-assignment)
+- **Extra Challenge Status:** ✅
 
 #### 36. **Project Title**
 
