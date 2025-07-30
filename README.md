@@ -520,8 +520,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a magazine step by step while practicing CSS Grid_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-an-availability-table/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳

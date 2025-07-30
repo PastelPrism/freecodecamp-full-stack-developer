@@ -1,0 +1,55 @@
+:root {
+  --color0: pink;
+  --color1: violet;
+  --color2: lightblue;
+  --color3: lightyellow;
+  --color4: #bfe3b4;
+  --color5: #FFD580;
+  --solid-border: 4px solid beige;
+  --dashed-border: 4px dashed lightgrey;
+}
+
+.available-0 {
+  background-color: var(--color0);
+}
+
+.available-1 {
+  background-color: var(--color1);
+}
+
+.available-2 {
+  background-color: var(--color2);
+}
+
+.available-3 {
+  background-color: var(--color3);
+}
+
+.available-4 {
+  background-color: var(--color4);
+}
+
+.available-5 {
+  background-color: var(--color5);
+}
+
+.sharp td {
+  border-bottom: var(--solid-border);
+}
+
+.half td {
+  border-bottom: var(--dashed-border);
+}
+
+#legend-gradient {
+  height: 30px;
+  background-image: linear-gradient(
+    90deg,
+    var(--color0) 10% 20%,
+    var(--color1) 20% 40%,
+    var(--color2) 40% 60%,
+    var(--color3) 60% 80%,
+    var(--color4) 80% 90%,
+    var(--color5) 90%
+  );
+}
