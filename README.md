@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 41/125  | **Total Completed:** 7/125  |
-|  **Remaining:** 84           | **Remaining:** 118          |
-| **Progress:** 31,2% Complete | **Progress:** 5.6% Complete |
+|  **Total Completed:** 50/125  | **Total Completed:** 7/125  |
+|  **Remaining:** 75           | **Remaining:** 118          |
+| **Progress:** 40% Complete | **Progress:** 5.6% Complete |
 
 ### **HTML Projects**
 
@@ -531,8 +531,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Design a magazine layout using CSS Grid_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-magazine-layout/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
@@ -542,8 +542,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a product landing page of a product of your choice_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-product-landing-page/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
@@ -553,8 +553,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step by step an animated Ferris Wheel using CSS animations_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-an-animated-ferris-wheel/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
@@ -564,8 +564,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Create an animation of the moon orbiting earth using CSS animations_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-moon-orbit/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
@@ -575,8 +575,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build step by step an animated penguin using CSS animations and CSS transforms_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-flappy-penguin/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
@@ -586,8 +586,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a personal portfolio page_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-personal-portfolio-page/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
