@@ -515,77 +515,77 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 44. **Project Title**
+#### [44. **Build a Magazine**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-magazine/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build a magazine step by step while practicing CSS Grid_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 45. **Project Title**
+#### [45. **Design a Magazine Layout**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-magazine-layout/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Design a magazine layout using CSS Grid_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 46. **Project Title**
+#### [46. **Build a Product Landing Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-product-landing-page/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a product landing page of a product of your choice_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 47. **Project Title**
+#### [47. **Build an Animated Ferris Wheel**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-animated-ferris-wheel/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build step by step an animated Ferris Wheel using CSS animations_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 48. **Project Title**
+#### [48. **Build a Moon Orbit**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-moon-orbit/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Create an animation of the moon orbiting earth using CSS animations_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 49. **Project Title**
+#### [49. **Build a Flappy Penguin**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flappy=penguin/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build step by step an animated penguin using CSS animations and CSS transforms_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 50. **Project Title**
+#### [50. **Build a Personal Portfolio Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-personal-portfolio-page/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a personal portfolio page_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
