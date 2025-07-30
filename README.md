@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 39/125  | **Total Completed:** 7/125  |
-|  **Remaining:** 86           | **Remaining:** 118          |
+|  **Total Completed:** 41/125  | **Total Completed:** 7/125  |
+|  **Remaining:** 84           | **Remaining:** 118          |
 | **Progress:** 31,2% Complete | **Progress:** 5.6% Complete |
 
 ### **HTML Projects**
@@ -471,24 +471,24 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 40. **Project Title**
+#### [40. **Design a Piano**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-piano/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Code step by step a piano using responsive design, pseudo selectors and media queries_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-piano/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 41. **Project Title**
+#### [41. **Build a Technical Documentation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-technical-documentation-page/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a responsive design for a technical document for any topic_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-technical-documentation-page/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
