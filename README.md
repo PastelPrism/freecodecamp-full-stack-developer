@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 50/125  | **Total Completed:** 7/125  |
-|  **Remaining:** 75           | **Remaining:** 118          |
-| **Progress:** 40% Complete | **Progress:** 5.6% Complete |
+|  **Total Completed:** 51/125  | **Total Completed:** 8/125  |
+|  **Remaining:** 74           | **Remaining:** 117          |
+| **Progress:** 40,8% Complete | **Progress:** 6.4% Complete |
 
 ### **HTML Projects**
 
@@ -591,17 +591,23 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
+</details>
 
-#### 51. **Project Title**
+### JavaScript Projects
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+<details>
+<summary><strong>View all the projects from the Javascript section (Click to expand)</strong></summary>
+
+#### [51. **Build a Greeting Bot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-greeting-bot/)
+
+- **Languages:** _Javascript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Learn Javascript fundamentals by building a greeting bot_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-greeting-bot/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Create a realistic chat experience. The user should be able to type in their own message and the greeting bot should respond with animated, typewriter style replies._
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-greeting-bot/extra)
+- **Extra Challenge Status:** ✅
 
 #### 52. **Project Title**
 
