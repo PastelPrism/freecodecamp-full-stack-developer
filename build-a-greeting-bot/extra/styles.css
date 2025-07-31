@@ -1,0 +1,132 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #4b9bd8;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 1.2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+#nextBtn {
+  width: 100%;
+  padding: 0.75rem;
+  background: #2563eb;
+  color: white;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#nextBtn:disabled {
+  background: #94a3b8;
+  cursor: not-allowed;
+}
+
+/* Input area styles */
+.input-container {
+  display: flex;
+  margin: 1rem 0 0 0;
+}
+
+.input-container input[type="text"] {
+  flex: 1;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccd0d5;
+  border-radius: 6px 0 0 6px;
+  outline: none;
+  transition: border 0.2s;
+}
+.input-container input[type="text"]:focus {
+  border: 1.5px solid #2563eb;
+}
+
+.input-container button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #2563eb;
+  background: #2563eb;
+  color: white;
+  border-radius: 0 6px 6px 0;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.input-container button:disabled {
+  background: #94a3b8;
+  cursor: not-allowed;
+}
+
+/* Chat */
+.chat-container {
+  width: 360px;
+  border: 1px solid #ccd0d5;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 2px 4px 12px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.chat-window {
+  padding: 1rem;
+  height: 400px;
+  overflow-y: auto;
+  background: #f9fafb;
+  display: flex;
+  flex-direction: column;
+  font-size: 0.97rem;
+}
+
+.message {
+  max-width: 80%;
+  margin-bottom: 0.65rem;
+  padding: 0.4rem 0.65rem;
+  border-radius: 12px;
+  opacity: 0;
+  animation: fadeIn 0.3s forwards;
+  font-size: 0.97rem;
+}
+
+.message.bot {
+  background: #dbeafe;
+  color: #222;
+  align-self: flex-start;
+}
+
+.message.user {
+  background: #bbf7d0;
+  color: #222;
+  align-self: flex-end;
+}
+
+#nextBtn {
+  width: 100%;
+  padding: 0.75rem;
+  background: #2563eb;
+  color: white;
+  border: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#nextBtn:disabled {
+  background: #94a3b8;
+  cursor: not-allowed;
+}
+
+@keyframes fadeIn {
+  to { opacity: 1; }
+}
