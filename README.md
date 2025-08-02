@@ -603,19 +603,19 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _Javascript_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Learn Javascript fundamentals by building a greeting bot_
-- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-greeting-bot/)
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Create a realistic chat experience. The user should be able to type in their own message and the greeting bot should respond with animated, typewriter style replies._
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-greeting-bot/extra)
 - **Extra Challenge Status:** ✅
 
-#### 52. **Project Title**
+#### [51. **Build a JavaScript Trivia Bot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-javascript-trivia-bot/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
