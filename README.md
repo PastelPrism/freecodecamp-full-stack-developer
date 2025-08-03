@@ -616,9 +616,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Description:** _Build a Trivia Bot practising variables and strings_
 - **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Description:** _Build a front for this script. Ask a child for input for the looks of the Trivia bot_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-javascript-trivia-bot/extra)
+- **Extra Challenge Status:** ✅
 
 #### [53. **Build a Sentence Maker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-sentence-maker/)
 
