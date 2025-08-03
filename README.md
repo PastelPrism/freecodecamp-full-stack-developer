@@ -609,7 +609,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-greeting-bot/extra)
 - **Extra Challenge Status:** ✅
 
-#### [51. **Build a JavaScript Trivia Bot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-javascript-trivia-bot/)
+#### [52. **Build a JavaScript Trivia Bot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-javascript-trivia-bot/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
