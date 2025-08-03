@@ -613,20 +613,20 @@ This README is a bit messy here and there, but it will become better in a few we
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Soon_
+- **Assignment Description:** _Build a Trivia Bot practising variables and strings_
 - **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### 53. **Project Title**
+#### [53. **Build a Sentence Maker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-sentence-maker/)
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a sentence maker practising strings and concatenation_
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
