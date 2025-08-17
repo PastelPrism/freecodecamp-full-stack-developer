@@ -110,7 +110,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Practice SVGs by building a heart icon._
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-heart-icon/)
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
