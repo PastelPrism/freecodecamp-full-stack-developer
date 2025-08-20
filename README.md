@@ -100,11 +100,11 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Description:** _Build a page for a travel agency. Add images - including figcaptions, a list and various paragraphs._
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-travel-agency-page/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Build a travel agency website for secret agents_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-travel-agency-page/extra)
+- **Extra Challenge Status:** ✅
 
-#### [7. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-heart-icon) - NEW
+#### [7. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-heart-icon)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
