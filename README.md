@@ -151,6 +151,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
+#### _**Forms and Tables**_
+
 #### [11. **Build a Hotel Feedback Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-hotel-feedback-form)
 
 - **Languages:** _HTML_
@@ -194,6 +196,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
+
+#### _**Accessibility**_
 
 #### [15. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-checkout-page)
 
