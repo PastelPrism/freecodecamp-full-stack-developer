@@ -652,7 +652,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### [54. **Build a Sentence Maker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-chatbot/)
+#### [54. **Build a Teacher Chatbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-chatbot/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
