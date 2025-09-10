@@ -674,12 +674,12 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 56. **Build a Fortune Teller**
+#### [56. **Build a Fortune Teller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-fortune-teller/)
 
 - **Languages:** _JavaScript_
-- **Practical Activity:** Lab
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a fortune teller using Math.random() and Math.floor() methods_
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
