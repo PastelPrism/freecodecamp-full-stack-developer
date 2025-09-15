@@ -38,7 +38,7 @@ function setupInfiniteScroll() {
   moveTo(currentIndex, allSlides, false);
 }
 
-
+// Helper functions
 function updateSlidePositions(slideArray = null) {
   const slidesToPosition = slideArray || Array.from(track.children);
   const slideWidth = getSlideWidth();
