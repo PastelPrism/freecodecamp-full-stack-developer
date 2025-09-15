@@ -685,51 +685,51 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 57. **Project Title**
+#### [57. **Build a Calculator**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Build a calculator step by step while practicing methods from previous lessons_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 58. **Project Title**
+#### [58. **Build a Boolean Check Function**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Learn to implement a function that checks if a value is boolean_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 59. **Project Title**
+#### [59. **Build an Email Masker**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Practice string slicing, using functions and concatenation while building an Email Masker step by step_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 60. **Project Title**
+#### [60. **Build a Loan Qualification Checker**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Work with conditionals, comparison operators and if statements, while building a Loan Qualification Checker_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 61. **Project Title**
+#### [61. **Project Title**]
 
 - **Languages:** HTML
 - **Practical Activity:** Workshop
