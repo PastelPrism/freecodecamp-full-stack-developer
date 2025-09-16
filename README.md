@@ -680,18 +680,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a fortune teller using Math.random() and Math.floor() methods_
 - **Assignment Page:** X (_Javascript only_)
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [57. **Build a Calculator**]
+#### [57. **Build a Calculator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-calculator/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Build a calculator step by step while practicing methods from previous lessons_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
@@ -701,7 +701,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Learn to implement a function that checks if a value is boolean_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -729,55 +729,55 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [61. **Project Title**]
+#### [61. **Build a Celsius to Fahrenheit Converter**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Implement a function that converts Celsius to Fahrenheit_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 62. **Project Title**
+#### [62. **Build a Card Counting Assistant**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Use JavaScript to count dealt cards_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 63. **Project Title**
+#### [63. **Build a Leap Year Calculator**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Use conditionals and loops to build a leap year calculator_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 64. **Project Title**
+#### [64. **Implement the Truncate String Algorithm**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Practise truncating a string at a certain lenght_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 65. **Project Title**
+#### [65. **Build a Confirm the Ending Tool**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Implement a function that checks if a string ends with a target string_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
