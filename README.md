@@ -26,7 +26,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 51/126  | **Total Completed:** 8/126  |
+|  **Total Completed:** 58/126  | **Total Completed:** 8/126  |
 |  **Remaining:** 75           | **Remaining:** 118          |
 | **Progress:** 40,8% Complete | **Progress:** 6.4% Complete |
 
@@ -1395,10 +1395,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 122. **Project Title**
 
@@ -1406,10 +1406,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 123. **Project Title**
 
@@ -1417,10 +1417,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 124. **Project Title**
 
@@ -1428,10 +1428,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### 125. **Project Title**
 
@@ -1439,10 +1439,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Practical Activity:** Workshop
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** _Soon_
+- **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 </details>
 
