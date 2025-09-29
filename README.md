@@ -784,77 +784,77 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 66. **Project Title**
+#### [66. **Build a Shopping List**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Step by step practice how to work with arrays using push, pop, shift and unshift methods_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 67. **Project Title**
+#### [67. **Build a Lunch Picker Program**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Work with arrays and random numbers by building a lunch picker program_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 68. **Project Title**
+#### [68. **Build a Golf Score Translator**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Translate golf scores into nicknames using array methods_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 69. **Project Title**
+#### [69. **Build a String Inverter**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Create a function that reverses a given string_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 70. **Project Title**
+#### [70. **Build a Recipe Tracker**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Review working with JavaScript objects by building a recipe tracker_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 71. **Project Title**
+#### [71. **Build a Quiz Game**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Use arrays and objects to build a quiz game_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 72. **Project Title**
+#### [72. **Build a Record Collection**]
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
-- **Assignment Description:** _Soon_
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build a funtion to manage a record collection_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
 - **Extra Challenge Description:** _Soon_
