@@ -1433,7 +1433,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 125. **Project Title**
+#### 125. **Build a Date Conversion Program**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 126. **Build a Music Player**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1444,21 +1455,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 126. **Project Title**
+#### 127. **Build a Drum Machine**
 
 - **Languages:** _JavaScript_
-- **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
-
-#### 127. **Project Title**
-
-- **Languages:** _JavaScript_
-- **Practical Activity:** _Workshop_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1820,7 +1820,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Python section (Click to expand)</strong></summary>
 
-#### 159. **Project Title**
+#### 159. **Build a Caesar Cipher**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1831,7 +1831,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
   
-#### 160. **Project Title**
+#### 160. **Build a RPG Character**
+
+- **Languages:** _Python_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 161. **Build a Pin Extractor**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1842,7 +1853,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 161. **Project Title**
+#### 162. **Build a Number Pattern Generator**
+
+- **Languages:** _Python_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 163. **Build a Medical Data Validator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1853,7 +1875,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 162. **Project Title**
+#### 164. **Build a User Configuration Manager**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1864,21 +1886,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 163. **Project Title**
+#### 165. **Debug an ISBN Validator**
 
 - **Languages:** _Python_
-- **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
-
-#### 164. **Project Title**
-
-- **Languages:** _Python_
-- **Practical Activity:** _Workshop_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
