@@ -119,7 +119,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
-- **Assignment Description:** _Create a page with video's, practice with the Iframe_
+- **Assignment Description:** _Create a page with video's, to practice with Iframes_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-video-compilation-page/)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
@@ -614,7 +614,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Status:** ⏳
 </details>
 
-### JavaScript Projects
+### **JavaScript Projects**
 
 <details>
 <summary><strong>View all the projects from the Javascript section (Click to expand)</strong></summary>
@@ -861,10 +861,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 73. **Project Title**
+#### 73. **Build a Sentence Analyzer**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -872,10 +872,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 74. **Project Title**
+#### 74. **Build a Longest Word Finder**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -883,10 +883,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 75. **Project Title**
+#### 75. **Build a Factorial Calculator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -894,10 +894,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 76. **Project Title**
+#### 76. **Implement the Mutations Algorithm**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -905,10 +905,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 77. **Project Title**
+#### 77. **Implement the Chunky Monkey Algorithm**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -916,10 +916,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 78. **Project Title**
+#### 78. **Build a Profile Lookup**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -927,10 +927,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 79. **Project Title**
+#### 79. **Build a String Repeating Function**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -938,10 +938,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 80. **Project Title**
+#### 80. **Build a Missing Letter Detector**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -949,10 +949,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 81. **Project Title**
+#### 81. **Build the Largest Number Finder**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -960,10 +960,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 82. **Project Title**
+#### 82. **Build a First Element Finder**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -971,10 +971,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 83. **Project Title**
+#### 83. **Implement the Slice and Spice Algorithm**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -982,10 +982,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 84. **Project Title**
+#### 84. **Build a Pyramid Generator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -993,10 +993,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 85. **Project Title**
+#### 85. **Build a Gradebook App**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1004,10 +1004,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 86. **Project Title**
+#### 86. **Build a Title Case Converter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1015,10 +1015,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 87. **Project Title**
+#### 87. **Implement a Falsy Remover**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1026,10 +1026,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 88. **Project Title**
+#### 88. **Build an Inventory Management Program**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1037,10 +1037,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 89. **Project Title**
+#### 89. **Implement a Unique Sorted Union**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1048,10 +1048,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 90. **Project Title**
+#### 90. **Build a Password Generator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1059,10 +1059,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 91. **Project Title**
+#### 91. **Design a Sum All Numbers Algorithm**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1070,10 +1070,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 92. **Project Title**
+#### 92. **Implement a DNA Pair Generator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1081,10 +1081,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 93. **Project Title**
+#### 93. **Implement a HTML Entity Converter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1092,10 +1092,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 94. **Project Title**
+#### 94. **Build an Odd Fibonacci Sum Calculator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1103,10 +1103,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 95. **Project Title**
+#### 95. **Build an Optional Arguments Sum Function**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1114,10 +1114,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 96. **Project Title**
+#### 96. **Build a Library Manager**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1125,10 +1125,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 97. **Project Title**
+#### 97. **Build a Book Organizer**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1136,10 +1136,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 98. **Project Title**
+#### 98. **Implement a Sorted Index Finder**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1147,10 +1147,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 99. **Project Title**
+#### 99. **Build a Symmetrie Difference Function**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _Lab_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1158,10 +1158,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 100. **Project Title**
+#### 100. **Build a Value Remover Function**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1169,10 +1169,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 101. **Project Title**
+#### 101. **Implement a Matching Object Filter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1180,10 +1180,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 102. **Project Title**
+#### 102. **Build a Prime Number Sum Calculator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1191,10 +1191,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 103. **Project Title**
+#### 103. **Implement a Range-Based LCM Calculator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1202,10 +1202,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 104. **Project Title**
+#### 104. **Build an All-True Property Validator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1213,10 +1213,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 105. **Project Title**
+#### 105. **Build a Storytelling App**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1224,10 +1224,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 106. **Project Title**
+#### 106. **Build an Emoji Reactor**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1235,10 +1235,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 107. **Project Title**
+#### 107. **Build a Music Instrument Filter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1246,10 +1246,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 108. **Project Title**
+#### 108. **Build a Real Time Counter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1257,10 +1257,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 109. **Project Title**
+#### 109. **Build a Lightbox Viewer**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1268,10 +1268,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 110. **Project Title**
+#### 110. **Build a Rock, Paper, Scissors Game**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1279,10 +1279,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 111. **Project Title**
+#### 111. **Build a Set of Football Team Cards**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1290,10 +1290,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 112. **Project Title**
+#### 112. **Build a Planets Tablist**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1301,10 +1301,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 113. **Project Title**
+#### 113. **Build a Note Taking App**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1312,10 +1312,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 114. **Project Title**
+#### 114. **Build a Theme Switcher**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1323,10 +1323,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 115. **Project Title**
+#### 115. **Debug a Random Background Color Changer**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1334,10 +1334,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 116. **Project Title**
+#### 116. **Build a Spam Filter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1345,10 +1345,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 117. **Project Title**
+#### 117. **Build a Palindrome Checker**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1356,10 +1356,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 118. **Project Title**
+#### 118. **Build a Markdown to HTML Converter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1367,10 +1367,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 119. **Project Title**
+#### 119. **Build a RegEx Sandbox**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1378,10 +1378,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 120. **Project Title**
+#### 120. **Implement a Spinal Case Converter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1389,10 +1389,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 121. **Project Title**
+#### 121. **Implement a Pig Latin Translator**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1400,10 +1400,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 122. **Project Title**
+#### 122. **Build a Smart Word Replacement Function**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1411,10 +1411,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 123. **Project Title**
+#### 123. **Build a Calorie Counter**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1422,10 +1422,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 124. **Project Title**
+#### 124. **Build a Customer Complaint Form**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1435,8 +1435,450 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### 125. **Project Title**
 
-- **Languages:** HTML
-- **Practical Activity:** Workshop
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 126. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 127. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 128. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 129. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 130. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 131. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 132. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 133. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 134. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 135. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 136. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 137. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 138. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 139. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 140. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 141. **Project Title**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+</details>
+
+### **Front End Libraries Projects**
+
+<details>
+<summary><strong>View all the projects from the Front End Libraries section (Click to expand)</strong></summary>
+
+#### 142. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 143. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 144. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 145. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 146. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 147. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 148. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 149. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 150. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 151. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 152. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 153. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 154. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 155. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 156. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 157. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 158. **Project Title**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+</details>
+
+### **Python Projects**
+
+<details>
+<summary><strong>View all the projects from the Python section (Click to expand)</strong></summary>
+
+#### 159. **Project Title**
+
+- **Languages:** _Python_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+  
+#### 160. **Project Title**
+
+- **Languages:** _Python_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 161. **Project Title**
+
+- **Languages:** _Python_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 162. **Project Title**
+
+- **Languages:** _Python_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 163. **Project Title**
+
+- **Languages:** _Python_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 164. **Project Title**
+
+- **Languages:** _Python_
+- **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
