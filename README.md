@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 58/126  | **Total Completed:** 8/126  |
-|  **Remaining:** 75           | **Remaining:** 118          |
-| **Progress:** 40,8% Complete | **Progress:** 6.4% Complete |
+|  **Total Completed:** 58/166  | **Total Completed:** 8/166  |
+|  **Remaining:** 108           | **Remaining:** 158           |
+| **Progress:** 34.9% Complete | **Progress:** 4.8% Complete |
 
 ### **HTML Projects**
 
@@ -1627,7 +1627,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Front End Libraries section (Click to expand)</strong></summary>
 
-#### 142. **Project Title**
+#### 142. **Build a Reusable Mega Navbar**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1638,7 +1638,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 143. **Project Title**
+#### 143. **Build a Reusable Footer**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 144. **Build a Reusable Profile Card Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1649,7 +1660,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 144. **Project Title**
+#### 145. **Build a Mood Board**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 146. **Toggle Text App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1660,7 +1682,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 145. **Project Title**
+#### 147. **Build a Color Picker App**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 148. **Build a Fruit Search App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1671,7 +1704,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 146. **Project Title**
+#### 149. **Build a One-Time Password**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 150. **Build a Superhero Application Form**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1682,7 +1726,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 147. **Project Title**
+#### 151. **Build an Event RSVP**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 152. **Build a Shopping List App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1693,7 +1748,29 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 148. **Project Title**
+#### 153. **Build a Currency Converter**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 154. **Build a Tic-Tac-Toe Game**
+
+- **Languages:** _Soon_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 155. **Build an Error Message Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1704,7 +1781,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 149. **Project Title**
+#### 156. **Build a CTA Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1715,7 +1792,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 150. **Project Title**
+#### 157. **Build a Pricing Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1726,10 +1803,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 151. **Project Title**
+#### 158. **Build a Music Shopping Cart Page**
 
 - **Languages:** _Soon_
-- **Practical Activity:** _Workshop_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1737,76 +1814,10 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 152. **Project Title**
+#### 159. **Design a Photography Exhibit**
 
 - **Languages:** _Soon_
-- **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
-
-#### 153. **Project Title**
-
-- **Languages:** _Soon_
-- **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
-
-#### 154. **Project Title**
-
-- **Languages:** _Soon_
-- **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
-
-#### 155. **Project Title**
-
-- **Languages:** _Soon_
-- **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
-
-#### 156. **Project Title**
-
-- **Languages:** _Soon_
-- **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
-
-#### 157. **Project Title**
-
-- **Languages:** _Soon_
-- **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
-
-#### 158. **Project Title**
-
-- **Languages:** _Soon_
-- **Practical Activity:** _Workshop_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1821,7 +1832,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Python section (Click to expand)</strong></summary>
 
-#### 159. **Build a Caesar Cipher**
+#### 160. **Build a Caesar Cipher**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1832,7 +1843,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
   
-#### 160. **Build a RPG Character**
+#### 161. **Build a RPG Character**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
@@ -1843,7 +1854,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 161. **Build a Pin Extractor**
+#### 162. **Build a Pin Extractor**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1854,7 +1865,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 162. **Build a Number Pattern Generator**
+#### 163. **Build a Number Pattern Generator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
@@ -1865,7 +1876,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 163. **Build a Medical Data Validator**
+#### 164. **Build a Medical Data Validator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1876,7 +1887,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 164. **Build a User Configuration Manager**
+#### 165. **Build a User Configuration Manager**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1887,7 +1898,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 165. **Debug an ISBN Validator**
+#### 166. **Debug an ISBN Validator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
