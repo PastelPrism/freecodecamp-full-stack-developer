@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 58/167  | **Total Completed:** 10/167  |
-|  **Remaining:** 109           | **Remaining:** 157           |
+|  **Total Completed:** 58/168  | **Total Completed:** 10/168  |
+|  **Remaining:** 110           | **Remaining:** 158           |
 | **Progress:** 34.9% Completed | **Progress:** 6% Completed |
 
 ### **HTML Projects**
@@ -115,7 +115,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [7. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-heart-icon)
+#### [8. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-heart-icon)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -126,7 +126,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-heart-icon/extra)
 - **Extra Challenge Status:** ✅
 
-#### [8. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-compilation-page)
+#### [9. **Build a Video Display Using Iframe**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-display-using-iframe)
+
+- **Languages:** _HTML_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Step by step learn to work with iframe element by building a video display_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### [10. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-compilation-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -140,7 +151,7 @@ This README is a bit messy here and there, but it will become better in a few we
 #### _**Semantic HTML**_
 
 
-#### [9. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
+#### [11. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -151,7 +162,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-blog-page/extra)
 - **Extra Challenge Status:** ✅
 
-#### [10. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-hub)
+#### [12. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-hub)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
