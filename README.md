@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 58/166  | **Total Completed:** 8/166  |
-|  **Remaining:** 108           | **Remaining:** 158           |
+|  **Total Completed:** 58/166  | **Total Completed:** 9/166  |
+|  **Remaining:** 108           | **Remaining:** 157           |
 | **Progress:** 34.9% Complete | **Progress:** 4.8% Complete |
 
 ### **HTML Projects**
@@ -122,9 +122,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Description:** _Create a page with video's, to practice with Iframes_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-video-compilation-page/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Build an interactive video gallery with category filtering._
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-video-compilation-page/extra)
+- **Extra Challenge Status:** ✅
 
 #### _**Semantic HTML**_
 
