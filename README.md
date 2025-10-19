@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 58/168  | **Total Completed:** 10/168  |
-|  **Remaining:** 110           | **Remaining:** 158           |
-| **Progress:** 34.9% Completed | **Progress:** 6% Completed |
+|  **Total Completed:** /  | **Total Completed:** /  |
+|  **Remaining:**            | **Remaining:**            |
+| **Progress:** Completed | **Progress:** Completed |
 
 ### **HTML Projects**
 
@@ -109,8 +109,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build an HTML audio and video player using video and audio elements._
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-an-html-audio-video-player/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
