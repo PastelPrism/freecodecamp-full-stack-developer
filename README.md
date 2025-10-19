@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 58/166  | **Total Completed:** 10/166  |
-|  **Remaining:** 108           | **Remaining:** 156           |
+|  **Total Completed:** 58/167  | **Total Completed:** 10/167  |
+|  **Remaining:** 109           | **Remaining:** 157           |
 | **Progress:** 34.9% Completed | **Progress:** 6% Completed |
 
 ### **HTML Projects**
@@ -103,6 +103,17 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Description:** _Build a travel agency website for secret agents_
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-travel-agency-page/extra)
 - **Extra Challenge Status:** ✅
+
+#### [7. **Build an HTML Audio and Video Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-html-audio-video-player)
+
+- **Languages:** _HTML_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Build an HTML audio and video player using video and audio elements._
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [7. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-heart-icon)
 
@@ -500,7 +511,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-piano/)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Don't change the HTML, but make sure some keys make sound._
-- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-piano/)
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-piano/extra)
 - **Extra Challenge Status:** ✅
 
 #### [41. **Build a Technical Documentation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-technical-documentation-page/)
