@@ -136,9 +136,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Description:** _Build step-by-step a blogpage for Mr Whiskers, including article posts, an about me and contact details_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-blog-page/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Copy the HTML and let vscode fill in the CSS. That easy!_ 
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-blog-page/extra)
+- **Extra Challenge Status:** ✅
 
 #### [10. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-hub)
 
