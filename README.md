@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 58/166  | **Total Completed:** 9/166  |
-|  **Remaining:** 108           | **Remaining:** 157           |
-| **Progress:** 34.9% Complete | **Progress:** 4.8% Complete |
+|  **Total Completed:** 58/166  | **Total Completed:** 10/166  |
+|  **Remaining:** 108           | **Remaining:** 156           |
+| **Progress:** 34.9% Completed | **Progress:** 6% Completed |
 
 ### **HTML Projects**
 
@@ -499,9 +499,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Description:** _Code step by step a piano using responsive design, pseudo selectors and media queries_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-piano/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Don't change the HTML, but make sure some keys make sound._
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-piano/)
+- **Extra Challenge Status:** ✅
 
 #### [41. **Build a Technical Documentation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-technical-documentation-page/)
 
