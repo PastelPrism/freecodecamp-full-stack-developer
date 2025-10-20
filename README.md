@@ -740,13 +740,13 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [63. **Build a Boolean Check Function**]
+#### [63. **Build a Boolean Check Function**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-boolean-check-function/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Learn to implement a function that checks if a value is boolean_
 - **Assignment Page:** X (_Javascript only_)
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
