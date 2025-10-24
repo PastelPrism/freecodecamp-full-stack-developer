@@ -707,6 +707,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
+#### [60. **Build a String Transformer**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/)
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Practice working with replace(), replaceAll() and repeat()_
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+
 #### [60. **Build a Mathbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-mathbot/)
 
 - **Languages:** _JavaScript_
