@@ -303,7 +303,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _⏳
+- **Extra Challenge Status:** ⏳
 
 #### [24. **Build a Stylized To-do List**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-todo-list)
 
