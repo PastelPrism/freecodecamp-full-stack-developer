@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 67 / 188 | **Total Completed:** 13 / 188  |
-|  **Remaining:**  121          | **Remaining:**      175      |
+|  **Total Completed:** 68 / 188 | **Total Completed:** 13 / 188  |
+|  **Remaining:**  120          | **Remaining:**      175      |
 | **Progress:** 35.10% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
@@ -796,13 +796,13 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [68. **Build a Card Counting Assistant**]
+#### [68. **Build a Card Counting Assistant**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-card-counting-assistant/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Use JavaScript to count dealt cards_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
