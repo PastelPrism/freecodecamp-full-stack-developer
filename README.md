@@ -1159,6 +1159,17 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
+#### 99. **Implement an Element Skipper**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
 #### 100. **Build an Optional Arguments Sum Function**
 
 - **Languages:** _JavaScript_
@@ -1284,6 +1295,17 @@ This README is a bit messy here and there, but it will become better in a few we
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 111. **Build a Favorite Icon Toggler**
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
 - **Assignment Description:** _Soon_
 - **Assignment Page:** _Soon_
 - **Assignment Status:** ⏳
@@ -1760,7 +1782,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 154. **Build a One-Time Password**
+#### 154. **Build a One-Time Password Generator**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1964,6 +1986,168 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
+
+</details>
+
+### **Relational Databases**
+
+<details>
+<summary><strong>View all the projects from the Relational Databases section (Click to expand)</strong></summary>
+
+#### 171. **Build a Boilerplate**
+
+- **Languages:** _Bash_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Database of Video Game Characters**
+
+- **Languages:** _PostgreSQL_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Celestial Bodies Database**
+
+- **Languages:** _PostgreSQL_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build Five Programs**
+
+- **Languages:** _Bash_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Student Database Part 1**
+
+- **Languages:** _Bash_ / _SQL_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Student Database Part 2**
+
+- **Languages:** _SQL_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Worldcup Database**
+
+- **Languages:** _Bash_ / _PostgreSQL_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Kitty Ipsum Translator**
+
+- **Languages:** _Bash_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Bike Rental Shop**
+
+- **Languages:** _Bash_ / _PostgreSQL_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Salon Appointment Scheduler**
+
+- **Languages:** _Bash_ / _PostgreSQL_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Castle**
+
+- **Texteditor:** _Nano_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build an SQL Reference Object**
+
+- **Tool** _Git_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Periodic Table Database**
+
+- **Languages:** _Bash_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### 171. **Build a Number Guessing Game**
+
+- **Languages:** _Bash_ / _PostgreSQL_ / _Git_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** _Soon_
+- **Assignment Status:** ⏳
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
 
 </details>
 
