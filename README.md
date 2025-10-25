@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 61 / 171 | **Total Completed:** 13 / 171  |
-|  **Remaining:**  110          | **Remaining:** 158           |
-| **Progress:** 35.7% Completed | **Progress:** 7.6% Completed |
+|  **Total Completed:** 64 / 188 | **Total Completed:** 13 / 188  |
+|  **Remaining:**  124          | **Remaining:**      175      |
+| **Progress:** 34.04% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
 
@@ -719,7 +719,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Status:** ⏳
 
 
-#### [60. **Build a Mathbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-mathbot/)
+#### [61. **Build a Mathbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-mathbot/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -730,7 +730,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [61. **Build a Fortune Teller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-fortune-teller/)
+#### [62. **Build a Fortune Teller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-fortune-teller/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -741,7 +741,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [62. **Build a Calculator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-calculator/)
+#### [63. **Build a Calculator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-calculator/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -752,7 +752,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [63. **Build a Boolean Check Function**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-boolean-check-function/)
+#### [64. **Build a Boolean Check Function**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-boolean-check-function/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -763,7 +763,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [64. **Build an Email Masker**]
+#### [65. **Build an Email Masker**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -774,7 +774,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [65. **Build a Loan Qualification Checker**]
+#### [66. **Build a Loan Qualification Checker**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -785,7 +785,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [66. **Build a Celsius to Fahrenheit Converter**]
+#### [67. **Build a Celsius to Fahrenheit Converter**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -796,7 +796,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [67. **Build a Card Counting Assistant**]
+#### [68. **Build a Card Counting Assistant**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -807,7 +807,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [68. **Build a Leap Year Calculator**]
+#### [69. **Build a Leap Year Calculator**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -818,7 +818,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [69. **Implement the Truncate String Algorithm**]
+#### [70. **Implement the Truncate String Algorithm**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -829,7 +829,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [70. **Build a Confirm the Ending Tool**]
+#### [71. **Build a Confirm the Ending Tool**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -840,7 +840,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [71. **Build a Shopping List**]
+#### [72. **Build a Shopping List**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -851,7 +851,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [72. **Build a Lunch Picker Program**]
+#### [73. **Build a Lunch Picker Program**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -862,7 +862,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [73. **Build a Golf Score Translator**]
+#### [74. **Build a Golf Score Translator**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -873,7 +873,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [74. **Build a String Inverter**]
+#### [75. **Build a String Inverter**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -884,7 +884,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [75. **Build a Recipe Tracker**]
+#### [76. **Build a Recipe Tracker**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -895,7 +895,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [76. **Build a Quiz Game**]
+#### [77. **Build a Quiz Game**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -906,7 +906,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [77. **Build a Record Collection**]
+#### [78. **Build a Record Collection**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -917,7 +917,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [78. **Build a Sentence Analyzer**]
+#### [79. **Build a Sentence Analyzer**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -928,7 +928,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [79. **Build a Longest Word Finder**]
+#### [80. **Build a Longest Word Finder**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -939,7 +939,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [80. **Build a Factorial Calculator**]
+#### [81. **Build a Factorial Calculator**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -950,7 +950,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 81. **Implement the Mutations Algorithm**
+#### 82. **Implement the Mutations Algorithm**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -961,7 +961,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 82. **Implement the Chunky Monkey Algorithm**
+#### 83. **Implement the Chunky Monkey Algorithm**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -972,7 +972,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 83. **Build a Profile Lookup**
+#### 84. **Build a Profile Lookup**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -983,7 +983,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 84. **Build a String Repeating Function**
+#### 85. **Build a String Repeating Function**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -994,7 +994,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 85. **Build a Missing Letter Detector**
+#### 86. **Build a Missing Letter Detector**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1005,7 +1005,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 86. **Build the Largest Number Finder**
+#### 87. **Build the Largest Number Finder**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1016,7 +1016,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 87. **Build a First Element Finder**
+#### 88. **Build a First Element Finder**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1027,7 +1027,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 88. **Implement the Slice and Spice Algorithm**
+#### 89. **Implement the Slice and Spice Algorithm**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1038,7 +1038,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 89. **Build a Pyramid Generator**
+#### 90. **Build a Pyramid Generator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1049,7 +1049,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 90. **Build a Gradebook App**
+#### 91. **Build a Gradebook App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1060,7 +1060,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 91. **Build a Title Case Converter**
+#### 92. **Build a Title Case Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1071,7 +1071,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 92. **Implement a Falsy Remover**
+#### 93. **Implement a Falsy Remover**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1082,7 +1082,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 93. **Build an Inventory Management Program**
+#### 94. **Build an Inventory Management Program**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1093,7 +1093,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 94. **Implement a Unique Sorted Union**
+#### 95. **Implement a Unique Sorted Union**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1104,7 +1104,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 95. **Build a Password Generator**
+#### 96. **Build a Password Generator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1115,7 +1115,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 96. **Design a Sum All Numbers Algorithm**
+#### 97. **Design a Sum All Numbers Algorithm**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1126,7 +1126,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 97. **Implement a DNA Pair Generator**
+#### 98. **Implement a DNA Pair Generator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1137,7 +1137,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 98. **Implement a HTML Entity Converter**
+#### 99. **Implement a HTML Entity Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1148,7 +1148,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 99. **Build an Odd Fibonacci Sum Calculator**
+#### 100. **Build an Odd Fibonacci Sum Calculator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1159,7 +1159,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 99. **Implement an Element Skipper**
+#### 101. **Implement an Element Skipper**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1170,7 +1170,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 100. **Build an Optional Arguments Sum Function**
+#### 102. **Build an Optional Arguments Sum Function**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1181,7 +1181,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 101. **Build a Library Manager**
+#### 103. **Build a Library Manager**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1192,7 +1192,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 102. **Build a Book Organizer**
+#### 104. **Build a Book Organizer**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1203,7 +1203,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 103. **Implement a Sorted Index Finder**
+#### 105. **Implement a Sorted Index Finder**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1214,7 +1214,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 104. **Build a Symmetrie Difference Function**
+#### 106. **Build a Symmetrie Difference Function**
 
 - **Languages:** _Lab_
 - **Practical Activity:** _Lab_
@@ -1225,7 +1225,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 105. **Build a Value Remover Function**
+#### 107. **Build a Value Remover Function**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1236,7 +1236,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 106. **Implement a Matching Object Filter**
+#### 108. **Implement a Matching Object Filter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1247,7 +1247,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 107. **Build a Prime Number Sum Calculator**
+#### 109. **Build a Prime Number Sum Calculator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1258,7 +1258,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 108. **Implement a Range-Based LCM Calculator**
+#### 110. **Implement a Range-Based LCM Calculator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1269,7 +1269,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 109. **Build an All-True Property Validator**
+#### 111. **Build an All-True Property Validator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1280,7 +1280,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 110. **Build a Storytelling App**
+#### 112. **Build a Storytelling App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1291,7 +1291,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 111. **Build an Emoji Reactor**
+#### 113. **Build an Emoji Reactor**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1302,7 +1302,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 111. **Build a Favorite Icon Toggler**
+#### 114. **Build a Favorite Icon Toggler**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1313,7 +1313,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 112. **Build a Music Instrument Filter**
+#### 115. **Build a Music Instrument Filter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1324,7 +1324,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 113. **Build a Real Time Counter**
+#### 116. **Build a Real Time Counter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1335,7 +1335,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 114. **Build a Lightbox Viewer**
+#### 117. **Build a Lightbox Viewer**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1346,7 +1346,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 115. **Build a Rock, Paper, Scissors Game**
+#### 118. **Build a Rock, Paper, Scissors Game**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1357,7 +1357,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 116. **Build a Set of Football Team Cards**
+#### 119. **Build a Set of Football Team Cards**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1368,7 +1368,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 117. **Build a Planets Tablist**
+#### 120. **Build a Planets Tablist**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1379,7 +1379,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 118. **Build a Note Taking App**
+#### 121. **Build a Note Taking App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1390,7 +1390,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 119. **Build a Theme Switcher**
+#### 122. **Build a Theme Switcher**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1401,7 +1401,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 120. **Debug a Random Background Color Changer**
+#### 123. **Debug a Random Background Color Changer**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1412,7 +1412,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 121. **Build a Spam Filter**
+#### 124. **Build a Spam Filter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1423,7 +1423,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 122. **Build a Palindrome Checker**
+#### 125. **Build a Palindrome Checker**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1434,7 +1434,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 123. **Build a Markdown to HTML Converter**
+#### 126. **Build a Markdown to HTML Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1445,7 +1445,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 124. **Build a RegEx Sandbox**
+#### 127. **Build a RegEx Sandbox**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1456,7 +1456,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 125. **Implement a Spinal Case Converter**
+#### 128. **Implement a Spinal Case Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1467,7 +1467,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 126. **Implement a Pig Latin Translator**
+#### 129. **Implement a Pig Latin Translator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1478,7 +1478,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 127. **Build a Smart Word Replacement Function**
+#### 130. **Build a Smart Word Replacement Function**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1489,7 +1489,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 128. **Build a Calorie Counter**
+#### 131. **Build a Calorie Counter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1500,7 +1500,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 129. **Build a Customer Complaint Form**
+#### 132. **Build a Customer Complaint Form**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1511,7 +1511,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 130. **Build a Date Conversion Program**
+#### 133. **Build a Date Conversion Program**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1522,7 +1522,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 131. **Build a Music Player**
+#### 134. **Build a Music Player**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1533,7 +1533,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 132. **Build a Drum Machine**
+#### 135. **Build a Drum Machine**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1544,7 +1544,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 133. **Build a Plant Nursery Catalogue**
+#### 136. **Build a Plant Nursery Catalogue**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1555,7 +1555,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 134. **Build a Voting System**
+#### 137. **Build a Voting System**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1566,7 +1566,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 135. **Build a Todo App**
+#### 138. **Build a Todo App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1577,7 +1577,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 136. **Build a Bookmark Manager App**
+#### 139. **Build a Bookmark Manager App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1588,7 +1588,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 137. **Build a Shopping Cart**
+#### 140. **Build a Shopping Cart**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1599,7 +1599,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 138. **Build a Project Idea Board**
+#### 141. **Build a Project Idea Board**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1610,7 +1610,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 139. **Build a Bank Account Management Program**
+#### 142. **Build a Bank Account Management Program**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1621,7 +1621,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 140. **Build a Decimal to Binary Converter**
+#### 143. **Build a Decimal to Binary Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1632,7 +1632,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 141. **Build a Permutation Generator**
+#### 144. **Build a Permutation Generator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1643,7 +1643,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 142. **Build a Recipe Ingredient Converter**
+#### 145. **Build a Recipe Ingredient Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1654,7 +1654,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 143. **Build a Sorting Visualizer**
+#### 146. **Build a Sorting Visualizer**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1665,7 +1665,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 144. **Build an fCC Authors Page**
+#### 147. **Build an fCC Authors Page**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1676,7 +1676,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 145. **Build an fCC Forum Leaderboard**
+#### 148. **Build an fCC Forum Leaderboard**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1687,7 +1687,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 146. **Build a Weather App**
+#### 149. **Build a Weather App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1705,7 +1705,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Front End Libraries section (Click to expand)</strong></summary>
 
-#### 147. **Build a Reusable Mega Navbar**
+#### 150. **Build a Reusable Mega Navbar**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1716,7 +1716,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 148. **Build a Reusable Footer**
+#### 151. **Build a Reusable Footer**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1727,7 +1727,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 149. **Build a Reusable Profile Card Component**
+#### 152. **Build a Reusable Profile Card Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1738,7 +1738,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 150. **Build a Mood Board**
+#### 153. **Build a Mood Board**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1749,7 +1749,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 151. **Toggle Text App**
+#### 154. **Toggle Text App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1760,7 +1760,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 152. **Build a Color Picker App**
+#### 155. **Build a Color Picker App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1771,7 +1771,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 153. **Build a Fruit Search App**
+#### 156. **Build a Fruit Search App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1782,7 +1782,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 154. **Build a One-Time Password Generator**
+#### 157. **Build a One-Time Password Generator**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1793,7 +1793,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 155. **Build a Superhero Application Form**
+#### 158. **Build a Superhero Application Form**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1804,7 +1804,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 156. **Build an Event RSVP**
+#### 159. **Build an Event RSVP**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1815,7 +1815,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 157. **Build a Shopping List App**
+#### 160. **Build a Shopping List App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1826,7 +1826,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 158. **Build a Currency Converter**
+#### 161. **Build a Currency Converter**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1837,7 +1837,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 159. **Build a Tic-Tac-Toe Game**
+#### 162. **Build a Tic-Tac-Toe Game**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1848,7 +1848,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 160. **Build an Error Message Component**
+#### 163. **Build an Error Message Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1859,7 +1859,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 161. **Build a CTA Component**
+#### 164. **Build a CTA Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1870,7 +1870,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 162. **Build a Pricing Component**
+#### 165. **Build a Pricing Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1881,7 +1881,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 163. **Build a Music Shopping Cart Page**
+#### 166. **Build a Music Shopping Cart Page**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1892,7 +1892,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 164. **Design a Photography Exhibit**
+#### 167. **Design a Photography Exhibit**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1910,7 +1910,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Python section (Click to expand)</strong></summary>
 
-#### 165. **Build a Caesar Cipher**
+#### 168. **Build a Caesar Cipher**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1921,7 +1921,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
   
-#### 166. **Build a RPG Character**
+#### 169. **Build a RPG Character**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
@@ -1932,7 +1932,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 167. **Build a Pin Extractor**
+#### 170. **Build a Pin Extractor**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1943,7 +1943,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 168. **Build a Number Pattern Generator**
+#### 171. **Build a Number Pattern Generator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
@@ -1954,7 +1954,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 169. **Build a Medical Data Validator**
+#### 172. **Build a Medical Data Validator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1965,7 +1965,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 170. **Build a User Configuration Manager**
+#### 173. **Build a User Configuration Manager**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -1976,7 +1976,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Debug an ISBN Validator**
+#### 174. **Debug an ISBN Validator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
@@ -1994,7 +1994,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Relational Databases section (Click to expand)</strong></summary>
 
-#### 171. **Build a Boilerplate**
+#### 175. **Build a Boilerplate**
 
 - **Languages:** _Bash_
 - **Practical Activity:** _Workshop_
@@ -2005,7 +2005,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Database of Video Game Characters**
+#### 176. **Build a Database of Video Game Characters**
 
 - **Languages:** _PostgreSQL_
 - **Practical Activity:** _Workshop_
@@ -2016,7 +2016,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Celestial Bodies Database**
+#### 177. **Build a Celestial Bodies Database**
 
 - **Languages:** _PostgreSQL_
 - **Practical Activity:** _Lab_
@@ -2027,7 +2027,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build Five Programs**
+#### 178. **Build Five Programs**
 
 - **Languages:** _Bash_
 - **Practical Activity:** _Workshop_
@@ -2038,7 +2038,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Student Database Part 1**
+#### 179. **Build a Student Database Part 1**
 
 - **Languages:** _Bash_ / _SQL_
 - **Practical Activity:** _Workshop_
@@ -2049,7 +2049,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Student Database Part 2**
+#### 180. **Build a Student Database Part 2**
 
 - **Languages:** _SQL_
 - **Practical Activity:** _Workshop_
@@ -2060,7 +2060,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Worldcup Database**
+#### 181. **Build a Worldcup Database**
 
 - **Languages:** _Bash_ / _PostgreSQL_
 - **Practical Activity:** _Lab_
@@ -2071,7 +2071,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Kitty Ipsum Translator**
+#### 182. **Build a Kitty Ipsum Translator**
 
 - **Languages:** _Bash_
 - **Practical Activity:** _Workshop_
@@ -2082,7 +2082,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Bike Rental Shop**
+#### 183. **Build a Bike Rental Shop**
 
 - **Languages:** _Bash_ / _PostgreSQL_
 - **Practical Activity:** _Workshop_
@@ -2093,7 +2093,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Salon Appointment Scheduler**
+#### 184. **Build a Salon Appointment Scheduler**
 
 - **Languages:** _Bash_ / _PostgreSQL_
 - **Practical Activity:** _Lab_
@@ -2104,7 +2104,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Castle**
+#### 185. **Build a Castle**
 
 - **Texteditor:** _Nano_
 - **Practical Activity:** _Workshop_
@@ -2115,7 +2115,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build an SQL Reference Object**
+#### 186. **Build an SQL Reference Object**
 
 - **Tool** _Git_
 - **Practical Activity:** _Workshop_
@@ -2126,7 +2126,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Periodic Table Database**
+#### 187. **Build a Periodic Table Database**
 
 - **Languages:** _Bash_
 - **Practical Activity:** _Lab_
@@ -2137,7 +2137,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Number Guessing Game**
+#### 188. **Build a Number Guessing Game**
 
 - **Languages:** _Bash_ / _PostgreSQL_ / _Git_
 - **Practical Activity:** _Lab_
