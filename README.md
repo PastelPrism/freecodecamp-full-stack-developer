@@ -26,7 +26,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 64 / 188 | **Total Completed:** 13 / 188  |
+|  **Total Completed:** 65 / 188 | **Total Completed:** 13 / 188  |
 |  **Remaining:**  124          | **Remaining:**      175      |
 | **Progress:** 34.04% Completed | **Progress:** 6.9% Completed |
 
