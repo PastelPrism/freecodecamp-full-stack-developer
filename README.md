@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 68 / 188 | **Total Completed:** 13 / 188  |
-|  **Remaining:**  120          | **Remaining:**      175      |
-| **Progress:** 35.10% Completed | **Progress:** 6.9% Completed |
+|  **Total Completed:** 69 / 188 | **Total Completed:** 13 / 188  |
+|  **Remaining:**  119          | **Remaining:**      175      |
+| **Progress:** 36.70% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
 
@@ -807,13 +807,13 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [69. **Build a Leap Year Calculator**]
+#### [69. **Build a Leap Year Calculator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-leap-year-calculator/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Use conditionals and loops to build a leap year calculator_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
