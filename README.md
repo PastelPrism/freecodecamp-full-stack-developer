@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 70 / 188 | **Total Completed:** 13 / 188  |
-|  **Remaining:**  118          | **Remaining:**      175      |
-| **Progress:** 37.23% Completed | **Progress:** 6.9% Completed |
+|  **Total Completed:** 71 / 188 | **Total Completed:** 13 / 188  |
+|  **Remaining:**  117          | **Remaining:**      175      |
+| **Progress:** 37.76% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
 
@@ -818,7 +818,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [70. **Implement the Truncate String Algorithm**]
+#### [70. **Implement the Truncate String Algorithm**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/implement-the-truncate-string-algorithm/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -829,13 +829,13 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [71. **Build a Confirm the Ending Tool**]
+#### [71. **Build a Confirm the Ending Tool**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-confirm-the-ending-tool/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Implement a function that checks if a string ends with a target string_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
