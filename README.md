@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 69 / 188 | **Total Completed:** 13 / 188  |
-|  **Remaining:**  119          | **Remaining:**      175      |
-| **Progress:** 36.70% Completed | **Progress:** 6.9% Completed |
+|  **Total Completed:** 70 / 188 | **Total Completed:** 13 / 188  |
+|  **Remaining:**  118          | **Remaining:**      175      |
+| **Progress:** 37.23% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
 
@@ -823,8 +823,8 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Practise truncating a string at a certain lenght_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
