@@ -26,9 +26,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 71 / 188 | **Total Completed:** 13 / 188  |
-|  **Remaining:**  117          | **Remaining:**      175      |
-| **Progress:** 37.76% Completed | **Progress:** 6.9% Completed |
+|  **Total Completed:** 78 / 188 | **Total Completed:** 13 / 188  |
+|  **Remaining:**  110          | **Remaining:**      175      |
+| **Progress:** 41.49% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
 
@@ -840,79 +840,79 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [72. **Build a Shopping List**]
+#### [72. **Build a Shopping List**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-shopping-list/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step practice how to work with arrays using push, pop, shift and unshift methods_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [73. **Build a Lunch Picker Program**]
+#### [73. **Build a Lunch Picker Program**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-lunch-picker-program/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Work with arrays and random numbers by building a lunch picker program_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [74. **Build a Golf Score Translator**]
+#### [74. **Build a Golf Score Translator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-golf-score-translator/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Translate golf scores into nicknames using array methods_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [75. **Build a String Inverter**]
+#### [75. **Build a String Inverter**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-inverter/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Create a function that reverses a given string_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [76. **Build a Recipe Tracker**]
+#### [76. **Build a Recipe Tracker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-recipe-tracker/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Review working with JavaScript objects by building a recipe tracker_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [77. **Build a Quiz Game**]
+#### [77. **Build a Quiz Game**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-quiz-game/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Use arrays and objects to build a quiz game_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [78. **Build a Record Collection**]
+#### [78. **Build a Record Collection**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-record-collection/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a funtion to manage a record collection_
 - **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
