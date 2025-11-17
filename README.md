@@ -26,8 +26,8 @@ This README is a bit messy here and there, but it will become better in a few we
 
 | **Main Projects:**             | **Extra Challenges:**       |
 | ------------------------------ | --------------------------- |
-|  **Total Completed:** 78 / 188 | **Total Completed:** 13 / 188  |
-|  **Remaining:**  110          | **Remaining:**      175      |
+|  **Total Completed:** 78 / 188 | **Total Completed:** 14 / 188  |
+|  **Remaining:**  110          | **Remaining:**      174      |
 | **Progress:** 41.49% Completed | **Progress:** 6.9% Completed |
 
 ### **HTML Projects**
@@ -169,9 +169,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Description:** _Design an event hub with upcoming and past events. Including a header, navigation bar and sections with images and articles_
 - **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-an-event-hub/)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Build an event page with a (rainbow) countdown and a modal_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-an-event-hub/extra)
+- **Extra Challenge Status:** ✅
 
 #### _**Forms and Tables**_
 
