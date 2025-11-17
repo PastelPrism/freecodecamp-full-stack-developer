@@ -87,7 +87,7 @@ article:hover {
 }
 
 img {
-    max-width: 50%;
+    max-width: 25%;
     border: 5px solid rgb(139, 189, 170);
     margin-top: 0.5rem;
 }
