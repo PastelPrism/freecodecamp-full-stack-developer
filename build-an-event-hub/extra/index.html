@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Event Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <h1>Event Hub</h1>
+    <nav>
+        <ul>
+            <li><a href="#upcoming-events">Upcoming Events</a></li>
+            <li><a href="#past-events">Past Events</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+
+<main>
+    <section id="upcoming-events">
+        <h2>Upcoming Events</h2>
+        <div id="countdown-container">
+    <h2>Countdown to Next Event</h2>
+    <div id="countdown"></div>
+</div>
+        <article>
+            <h3>Look! We're Rocking</h3>
+            <div class="event-details">
+            <p><strong>Date:</strong> 31 december 2025 at 8:00 PM</p>
+            <p><strong>Venue room:</strong> Main Hall A</p>
+            <p><strong>Genre:</strong> Rock</p>
+            <p><strong>Price:</strong> $45</p>
+            </div>
+            <div class="image-container" > 
+                <img src="./images/rock-band.png" alt="A rock band performing on stage" />
+            </div>
+            <p id="event-description">Join us for an unforgettable night of electrifying rock music! This all-female rock band has been touring internationally for the past five years, bringing their unique sound and powerful performances to stages around the world. Their latest album has topped charts in multiple countries, and they're known for their incredible live shows that blend classic rock influences with modern energy.</p>
+            <button class="read-more" data-event="1">Read more...</button>
+        </article>
+
+        <article>
+            <h3>Heavy Metal Mayhem</h3>
+            <div class="event-details">
+            <p><strong>Date:</strong> 15 january 2026 at 9:00 PM</p>
+            <p><strong>Venue room:</strong> Thunder Arena</p>
+            <p><strong>Genre:</strong> Heavy Metal</p>
+            <p><strong>Price:</strong> $50</p>
+            </div>
+            <div class="image-container" > 
+                <img src="./images/heavy-metal-band.png" alt="A heavy metal band performing on stage" />
+            </div>
+            <p id="event-description">Prepare yourself for an earth-shattering experience of pure heavy metal power! This legendary band has been dominating the metal scene for over a decade, known for their thunderous riffs, powerful vocals, and explosive stage presence. Their music combines classic heavy metal traditions with modern intensity that will leave you breathless.</p>
+            <button class="read-more" data-event="2">Read more...</button>
+        </article>
+    </section>
+
+    <section id="past-events">
+        <h2>Past Events</h2>
+     
+        <article>
+            <h3>Pop Perfection Night</h3>
+            <div class="event-details">
+             <p><strong>Date:</strong> 20 october 2025 at 7:30 PM</p>
+            <p><strong>Venue room:</strong> Starlight Stage</p>
+            <p><strong>Genre:</strong> Pop</p>
+            <p><strong>Price:</strong> $40</p>
+            </div>
+            <div class="image-container" > 
+                <img src="./images/pop-band.png" alt="A band performing on stage" />
+            </div>
+             <p id="event-description">This was an incredible evening filled with catchy melodies, upbeat rhythms, and infectious energy! The pop sensation delivered chart-topping hits that had the entire audience singing along. Their performance featured elaborate choreography, stunning visuals, and a setlist packed with radio favorites that everyone knew and loved.</p>
+             <button class="read-more" data-event="3">Read more...</button>
+        </article>
+        
+        <article>
+            <h3>Classical Symphony Evening</h3>
+            <div class="event-details">
+            <p><strong>Date:</strong> 10 september 2025 at 6:00 PM</p>
+            <p><strong>Venue room:</strong> Grand Concert Hall</p>
+            <p><strong>Genre:</strong> Classical</p>
+            <p><strong>Price:</strong> $55</p>
+            </div>
+            <div class="image-container">
+            <img src="./images/orchestra.png" alt="A classical band performing on stage">
+            </div>
+            <p id="event-description">This was a magnificent evening of classical excellence! The renowned orchestra performed masterpieces from the greatest composers, including Beethoven, Mozart, and Tchaikovsky. The hall was filled with the rich, resonant sounds of strings, brass, woodwinds, and percussion working in perfect harmony under the guidance of an award-winning conductor.</p>
+            <button class="read-more" data-event="4">Read more...</button>
+        </article>
+    </section>
+
+    <div id="eventModal1" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>Look! We're Rocking</h3>
+            <div class="modal-image">
+                <img src="./images/female-rockband.png" alt="A female rock band performing on stage" />
+            </div>
+            <p><strong>Date:</strong> 31 december 2025 at 8:00 PM</p>
+            <p><strong>Venue room:</strong> Main Hall A</p>
+            <p><strong>Genre:</strong> Rock</p>
+            <p><strong>Price:</strong> $45</p>
+            <p id="event-description">A very rocky-rock evening</p>
+            <p>Join us for an unforgettable night of electrifying rock music! This all-female rock band has been touring internationally for the past five years, bringing their unique sound and powerful performances to stages around the world. Their latest album has topped charts in multiple countries, and they're known for their incredible live shows that blend classic rock influences with modern energy.</p>
+            <p>The evening will feature a full two-hour set including their greatest hits and some brand new material that hasn't been released yet. There will be special effects, amazing light shows, and the kind of atmosphere that only a live rock concert can provide. Don't miss this opportunity to experience rock music at its finest!</p>
+        </div>
+    </div>
+
+    <div id="eventModal2" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>Heavy Metal Mayhem</h3>
+            <div class="modal-image">
+                <img src="./images/heavy-metal-band.png" alt="A heavy metal band performing on stage" />
+            </div>
+            <p><strong>Date:</strong> 15 january 2026 at 9:00 PM</p>
+            <p><strong>Venue room:</strong> Thunder Arena</p>
+            <p><strong>Genre:</strong> Heavy Metal</p>
+            <p><strong>Price:</strong> $50</p>
+            <p>A very heavy-heavy metal evening</p>
+            <p>Prepare yourself for an earth-shattering experience of pure heavy metal power! This legendary band has been dominating the metal scene for over a decade, known for their thunderous riffs, powerful vocals, and explosive stage presence. Their music combines classic heavy metal traditions with modern intensity that will leave you breathless.</p>
+            <p>Expect pyrotechnics, headbanging anthems, and an atmosphere of pure metal mayhem. With opening acts from local metal bands and special guest appearances, this will be a night that metal fans will remember for years to come. Bring your horns up and get ready to rock!</p>
+        </div>
+    </div>
+
+    <div id="eventModal3" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>Pop Perfection Night</h3>
+            <div class="modal-image">
+                <img src="./images/pop-band.png" alt="A pop band performing on stage" />
+            </div>
+            <p><strong>Date:</strong> 20 october 2025 at 7:30 PM</p>
+            <p><strong>Venue room:</strong> Starlight Stage</p>
+            <p><strong>Genre:</strong> Pop</p>
+            <p><strong>Price:</strong> $40</p>
+            <p>A very poppy-pop evening</p>
+            <p>This was an incredible evening filled with catchy melodies, upbeat rhythms, and infectious energy! The pop sensation delivered chart-topping hits that had the entire audience singing along. Their performance featured elaborate choreography, stunning visuals, and a setlist packed with radio favorites that everyone knew and loved.</p>
+            <p>The band brought incredible showmanship with costume changes, interactive moments with the crowd, and a surprise acoustic set that showcased their vocal talents. It was a perfect night of pop music that left everyone dancing and smiling from start to finish!</p>
+        </div>
+    </div>
+
+    <div id="eventModal4" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>Classical Symphony Evening</h3>
+            <div class="modal-image">
+                <img src="./images/orchestra.png" alt="A classical orchestra performing on stage" />
+            </div>
+            <p><strong>Date:</strong> 10 september 2025 at 6:00 PM</p>
+            <p><strong>Venue room:</strong> Grand Concert Hall</p>
+            <p><strong>Genre:</strong> Classical</p>
+            <p><strong>Price:</strong> $55</p>
+            <p>A very classy-classical evening</p>
+            <p>This was a magnificent evening of classical excellence! The renowned orchestra performed masterpieces from the greatest composers, including Beethoven, Mozart, and Tchaikovsky. The hall was filled with the rich, resonant sounds of strings, brass, woodwinds, and percussion working in perfect harmony under the guidance of an award-winning conductor.</p>
+            <p>The program included beloved symphonies and concertos, with moments of breathtaking beauty and emotional depth. The acoustics of the Grand Concert Hall brought every note to life, creating an immersive experience that transported the audience to another world. A truly unforgettable celebration of classical music!</p>
+        </div>
+    </div>
+
+    <footer>
+    <p>
+      Click <a href="../index.html">here</a> for the original assignment.
+    </p>
+    <p>
+      &copy; 2025 A project from 
+      <a href="https://www.freecodecamp.org">freeCodeCamp</a> 
+      made by 
+      <a href="https://github.com/PastelPrism">Amy</a>
+    </p>
+  </footer>
+
+</main>
+<script src="script.js"></script>
+</body>
+</html>
