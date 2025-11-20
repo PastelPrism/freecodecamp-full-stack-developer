@@ -93,6 +93,17 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/index-challenge.html)
 - **Extra Challenge Status:** ✅
 
+#### [5A. **Build a Bookstore Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-bookstore-page)
+
+- **Languages:** _HTML_ 
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Learn how to make cards with divs_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-bookstore-page/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
+
 #### [6. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
 
 - **Languages:** _HTML_
