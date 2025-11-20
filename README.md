@@ -448,6 +448,28 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
+#### [32A. **Build a Game Settings Panel**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-game-settings-panel)
+
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-game-settings-panel)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### [32B. **Design a Feature Selection Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-feature-selection-page)
+
+- **Languages:** _HTML & CSS_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-feature-selection-page/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
 #### [33. **Design a Rothko Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-rothko-painting)
 
 - **Languages:** _HTML & CSS_
