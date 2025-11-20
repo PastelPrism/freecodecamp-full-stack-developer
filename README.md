@@ -161,6 +161,16 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Semantic HTML**_
 
+#### [11A. **Build a List of Major Web Browsers**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-list-of-major-web-browsers)
+
+- **Languages:** _HTML_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Soon_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-list-of-major-web-browsers/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_ 
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** _Soon_
 
 #### [11. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
 
