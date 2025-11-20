@@ -275,6 +275,18 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
+#### [18A. **Build an Accessible Audio Controller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tech-conference-schedule-table)
+
+- **Languages:**_ HTML_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Step by step, build an accessible audio volume controller_
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-an-accessible-audio-controller/)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+
 #### [19. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-checkout-page)
 
 - **Languages:**_ HTML_
