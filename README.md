@@ -784,6 +784,17 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
+#### [59B. **Build a String Formatter**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-formatter/)
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Workshop_
+- **Assignment Description:** _Practice working with various string methods, used for formatting strings_
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
 #### [60. **Build a String Transformer**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-transformer)
 
 - **Languages:** _JavaScript_
