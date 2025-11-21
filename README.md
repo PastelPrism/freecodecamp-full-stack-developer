@@ -806,6 +806,27 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
+#### [60A. **Debug Type Coercion Errors in a Buggy App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-type-coercion-errors)
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Debug various coercion errors_
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
+
+#### [60B. **Debug Increment and Decrement Operator Errors in a Buggy App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-increment-and-decrement-operator-errors)
+
+- **Languages:** _JavaScript_
+- **Practical Activity:** _Lab_
+- **Assignment Description:** _Debug increment and decrement errors_
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
+- **Extra Challenge Description:** _Soon_
+- **Extra Challenge Page:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [61. **Build a Mathbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-mathbot/)
 
