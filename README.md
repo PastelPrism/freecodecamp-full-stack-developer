@@ -954,7 +954,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Step by step practice how to work with arrays using push, pop, shift and unshift methods_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -965,7 +965,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Work with arrays and random numbers by building a lunch picker program_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** X (_Javascript only_)_
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -976,7 +976,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Translate golf scores into nicknames using array methods_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -987,7 +987,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Create a function that reverses a given string_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -998,7 +998,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Review working with JavaScript objects by building a recipe tracker_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -1009,7 +1009,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Use arrays and objects to build a quiz game_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -1020,7 +1020,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
 - **Assignment Description:** _Build a funtion to manage a record collection_
-- **Assignment Page:** _Soon_
+- **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
@@ -1030,9 +1030,9 @@ This README is a bit messy here and there, but it will become better in a few we
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
-- **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Description:** _Step by step, learn how to build a sentence analyzer_
+- **Assignment Page:** X (_Javascript only_)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
