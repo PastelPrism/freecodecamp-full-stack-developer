@@ -93,7 +93,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-recipe-page/index-challenge.html)
 - **Extra Challenge Status:** ✅
 
-#### [5A. **Build a Bookstore Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-bookstore-page)
+#### [6. **Build a Bookstore Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-bookstore-page)
 
 - **Languages:** _HTML_ 
 - **Practical Activity:** _Workshop_
@@ -104,7 +104,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### [6. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
+#### [7. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -115,7 +115,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-travel-agency-page/extra)
 - **Extra Challenge Status:** ✅
 
-#### [7. **Build an HTML Audio and Video Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-html-audio-video-player)
+#### [8. **Build an HTML Audio and Video Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-html-audio-video-player)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -126,7 +126,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [8. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-heart-icon)
+#### [9. **Build a Heart Icon**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-heart-icon)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -137,7 +137,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-heart-icon/extra)
 - **Extra Challenge Status:** ✅
 
-#### [9. **Build a Video Display Using Iframe**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-display-using-iframe)
+#### [10. **Build a Video Display Using Iframe**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-display-using-iframe)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -148,7 +148,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [10. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-compilation-page)
+#### [11. **Build a Video Compilation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-video-compilation-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -161,7 +161,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Semantic HTML**_
 
-#### [11A. **Build a List of Major Web Browsers**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-list-of-major-web-browsers)
+#### [12. **Build a List of Major Web Browsers**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-list-of-major-web-browsers)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -172,7 +172,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### [11B. **Build Quincy's Job Tips Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-quincys-job-tips-page)
+#### [13. **Build Quincy's Job Tips Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-quincys-job-tips-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -183,7 +183,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** _Soon_
 
-#### [11. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
+#### [14. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -194,7 +194,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-cat-blog-page/extra)
 - **Extra Challenge Status:** ✅
 
-#### [12. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-hub)
+#### [15. **Build an Event Hub**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-hub)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -207,7 +207,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Forms and Tables**_
 
-#### [13. **Build a Hotel Feedback Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-hotel-feedback-form)
+#### [16. **Build a Hotel Feedback Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-hotel-feedback-form)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -218,7 +218,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [14. **Build a Survey Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-survey-form)
+#### [17. **Build a Survey Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-survey-form)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -229,7 +229,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-survey-form/challenge-page)
 - **Extra Challenge Status:** ✅
 
-#### [15. **Build a Final Exams Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-final-exams-table)
+#### [18. **Build a Final Exams Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-final-exams-table)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Workshop_
@@ -240,7 +240,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [16. **Build a Book Catalog Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-catalog-table)
+#### [19. **Build a Book Catalog Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-catalog-table)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -253,7 +253,7 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### _**Accessibility**_
 
-#### [17. **Debug a Coding Journey Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-a-coding-journey-blog-page)
+#### [20. **Debug a Coding Journey Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-a-coding-journey-blog-page)
 
 - **Languages:**_ HTML_
 - **Practical Activity:** _Workshop_
@@ -264,7 +264,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [18. **Build a Tech Conference Schedule Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tech-conference-schedule-table)
+#### [21. **Build a Tech Conference Schedule Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tech-conference-schedule-table)
 
 - **Languages:**_ HTML_
 - **Practical Activity:** _Workshop_
@@ -275,7 +275,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [18A. **Build an Accessible Audio Controller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tech-conference-schedule-table)
+#### [22. **Build an Accessible Audio Controller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tech-conference-schedule-table)
 
 - **Languages:**_ HTML_
 - **Practical Activity:** _Workshop_
@@ -287,7 +287,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Status:** ⏳
 
 
-#### [19. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-checkout-page)
+#### [23. **Build a Checkout Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-checkout-page)
 
 - **Languages:**_ HTML_
 - **Practical Activity:** _Lab_
@@ -298,7 +298,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [20. **Design a Movie Review Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-movie-review-page)
+#### [24. **Design a Movie Review Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-movie-review-page)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -309,7 +309,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [21. **Build a Multimedia Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-multimedia-player)
+#### [25. **Build a Multimedia Player**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-multimedia-player)
 
 - **Languages:** _HTML_
 - **Practical Activity:** _Lab_
@@ -327,7 +327,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the CSS section (Click to expand)</strong></summary>
 
-#### [22. **Design a Café Menu**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-cafe-menu)
+#### [26. **Design a Café Menu**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-cafe-menu)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -338,7 +338,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [23. **Design a Businesscard**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-businesscard)
+#### [27. **Design a Businesscard**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-businesscard)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -349,7 +349,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [24. **Build a Stylized To-do List**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-todo-list)
+#### [28. **Build a Stylized To-do List**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-todo-list)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -360,7 +360,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [25. **Design a Blog Post Card**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-blog-post-card)
+#### [29. **Design a Blog Post Card**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-blog-post-card)
 
 - **Languages:** _HTML &  CSS_
 - **Practical Activity:** _Lab_
@@ -371,7 +371,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [26. **Build an Event Flyer Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-flyer-page)
+#### [30. **Build an Event Flyer Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-event-flyer-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -382,7 +382,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [27. **Design a Greeting Card**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-greeting-card)
+#### [31. **Design a Greeting Card**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-greeting-card)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -393,7 +393,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [28. **Build a Job Application Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-job-application-form)
+#### [32. **Build a Job Application Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-job-application-form)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -404,7 +404,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [29. **Build a Set of Colored Markers**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-set-of-colored-markers)
+#### [33. **Build a Set of Colored Markers**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-set-of-colored-markers)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -415,7 +415,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [30. **Design a Set of Colored Boxes**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-set-of-colored-boxes)
+#### [34. **Design a Set of Colored Boxes**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-set-of-colored-boxes)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -426,7 +426,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [31. **Design a Registration Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-registration-form)
+#### [35. **Design a Registration Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-registration-form)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -437,7 +437,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [32. **Design a Contact Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-contact-form)
+#### [36. **Design a Contact Form**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-contact-form)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -448,7 +448,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [32A. **Build a Game Settings Panel**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-game-settings-panel)
+#### [37. **Build a Game Settings Panel**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-game-settings-panel)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -459,7 +459,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [32B. **Design a Feature Selection Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-feature-selection-page)
+#### [38. **Design a Feature Selection Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-feature-selection-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -470,7 +470,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [33. **Design a Rothko Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-rothko-painting)
+#### [39. **Design a Rothko Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-rothko-painting)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -481,7 +481,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [34. **Build a Confidential Email Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-confidential-email-page)
+#### [40. **Build a Confidential Email Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-confidential-email-page)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -492,7 +492,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [35. **Build a Flexbox Photo Gallery**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flexbox-photo-gallery)
+#### [41. **Build a Flexbox Photo Gallery**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flexbox-photo-gallery)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -503,7 +503,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [36. **Build a Page of Playing Cards**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-page-of-playing-cards)
+#### [42. **Build a Page of Playing Cards**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-page-of-playing-cards)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -514,7 +514,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [37. **Build a Nutritional Label**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-nutritional-label)
+#### [43. **Build a Nutritional Label**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-nutritional-label)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -525,7 +525,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [38. **Build a Newspaper Article**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-newspaper-article)
+#### [44. **Build a Newspaper Article**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-newspaper-article)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -536,7 +536,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [39. **Build a Quiz Webpage**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-quiz-webpage/)
+#### [45. **Build a Quiz Webpage**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-quiz-webpage/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -547,7 +547,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [40. **Build a Tribute Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tribute-page/)
+#### [46. **Build a Tribute Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-tribute-page/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -558,7 +558,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-tribute-page/index-assignment)
 - **Extra Challenge Status:** ✅
 
-#### [41. **Build a Cat Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-painting/)
+#### [47. **Build a Cat Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-painting/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -569,7 +569,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [42. **Build a House Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-house-painting/)
+#### [48. **Build a House Painting**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-house-painting/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -580,7 +580,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [43. **Build a Balance Sheet**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-balance-sheet/)
+#### [49. **Build a Balance Sheet**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-balance-sheet/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -591,7 +591,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [44. **Build a Book Inventory App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-inventory-app/)
+#### [50. **Build a Book Inventory App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-book-inventory-app/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -602,7 +602,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [45. **Design a Piano**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-piano/)
+#### [51. **Design a Piano**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-piano/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -613,7 +613,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/design-a-piano/extra)
 - **Extra Challenge Status:** ✅
 
-#### [46. **Build a Technical Documentation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-technical-documentation-page/)
+#### [52. **Build a Technical Documentation Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-technical-documentation-page/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -624,7 +624,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [47. **Build a City Skyline**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-city-skyline/)
+#### [53. **Build a City Skyline**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-city-skyline/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -635,7 +635,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [48. **Build an Availability Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-availability-table/)
+#### [54. **Build an Availability Table**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-availability-table/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -646,7 +646,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [49. **Build a Magazine**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-magazine/)
+#### [55. **Build a Magazine**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-magazine/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -657,7 +657,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [50. **Design a Magazine Layout**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-magazine-layout/)
+#### [56. **Design a Magazine Layout**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/design-a-magazine-layout/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -668,7 +668,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [51. **Build a Product Landing Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-product-landing-page/)
+#### [57. **Build a Product Landing Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-product-landing-page/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -679,7 +679,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [52. **Build an Animated Ferris Wheel**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-animated-ferris-wheel/)
+#### [58. **Build an Animated Ferris Wheel**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-animated-ferris-wheel/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -690,7 +690,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [53. **Build a Moon Orbit**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-moon-orbit/)
+#### [59. **Build a Moon Orbit**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-moon-orbit/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -701,7 +701,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [54. **Build a Flappy Penguin**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flappy=penguin/)
+#### [60. **Build a Flappy Penguin**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-flappy=penguin/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Workshop_
@@ -712,7 +712,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [55. **Build a Personal Portfolio Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-personal-portfolio-page/)
+#### [61. **Build a Personal Portfolio Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-personal-portfolio-page/)
 
 - **Languages:** _HTML & CSS_
 - **Practical Activity:** _Lab_
@@ -729,7 +729,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Javascript section (Click to expand)</strong></summary>
 
-#### [56. **Build a Greeting Bot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-greeting-bot/)
+#### [62. **Build a Greeting Bot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-greeting-bot/)
 
 - **Languages:** _Javascript_
 - **Practical Activity:** _Workshop_
@@ -740,7 +740,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-greeting-bot/extra)
 - **Extra Challenge Status:** ✅
 
-#### [57. **Build a JavaScript Trivia Bot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-javascript-trivia-bot/)
+#### [63. **Build a JavaScript Trivia Bot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-javascript-trivia-bot/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -751,7 +751,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-javascript-trivia-bot/extra)
 - **Extra Challenge Status:** ✅
 
-#### [58. **Build a Sentence Maker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-sentence-maker/)
+#### [64. **Build a Sentence Maker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-sentence-maker/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -762,7 +762,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [59. **Build a Teacher Chatbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-chatbot/)
+#### [65. **Build a Teacher Chatbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-chatbot/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -773,7 +773,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [59A. **Build a String Inspector**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-inspector/)
+#### [66. **Build a String Inspector**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-inspector/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -784,7 +784,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [59B. **Build a String Formatter**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-formatter/)
+#### [67. **Build a String Formatter**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-formatter/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -795,7 +795,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [60. **Build a String Transformer**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-transformer)
+#### [68. **Build a String Transformer**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-transformer)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -806,7 +806,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [60A. **Debug Type Coercion Errors in a Buggy App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-type-coercion-errors)
+#### [69. **Debug Type Coercion Errors in a Buggy App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-type-coercion-errors)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -817,7 +817,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [60B. **Debug Increment and Decrement Operator Errors in a Buggy App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-increment-and-decrement-operator-errors)
+#### [70. **Debug Increment and Decrement Operator Errors in a Buggy App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/debug-increment-and-decrement-operator-errors)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -828,7 +828,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [61. **Build a Mathbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-mathbot/)
+#### [71. **Build a Mathbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-mathbot/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -839,7 +839,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [62. **Build a Fortune Teller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-fortune-teller/)
+#### [72. **Build a Fortune Teller**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-fortune-teller/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -850,7 +850,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [63. **Build a Calculator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-calculator/)
+#### [73. **Build a Calculator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-calculator/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -861,7 +861,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [64. **Build a Boolean Check Function**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-boolean-check-function/)
+#### [74. **Build a Boolean Check Function**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-boolean-check-function/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -872,7 +872,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [65. **Build an Email Masker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-email-masker/)
+#### [75. **Build an Email Masker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-an-email-masker/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -883,7 +883,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [66. **Build a Loan Qualification Checker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-loan-qualification-checker/)
+#### [76. **Build a Loan Qualification Checker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-loan-qualification-checker/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -894,7 +894,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [67. **Build a Celsius to Fahrenheit Converter**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-celsius-to-fahrenheit-converter/)
+#### [77. **Build a Celsius to Fahrenheit Converter**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-celsius-to-fahrenheit-converter/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -905,7 +905,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [68. **Build a Card Counting Assistant**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-card-counting-assistant/)
+#### [78. **Build a Card Counting Assistant**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-card-counting-assistant/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -916,7 +916,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [69. **Build a Leap Year Calculator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-leap-year-calculator/)
+#### [79. **Build a Leap Year Calculator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-leap-year-calculator/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -927,7 +927,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [70. **Implement the Truncate String Algorithm**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/implement-the-truncate-string-algorithm/)
+#### [80. **Implement the Truncate String Algorithm**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/implement-the-truncate-string-algorithm/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -938,7 +938,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [71. **Build a Confirm the Ending Tool**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-confirm-the-ending-tool/)
+#### [81. **Build a Confirm the Ending Tool**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-confirm-the-ending-tool/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -949,7 +949,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [72. **Build a Shopping List**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-shopping-list/)
+#### [82. **Build a Shopping List**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-shopping-list/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -960,7 +960,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [73. **Build a Lunch Picker Program**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-lunch-picker-program/)
+#### [83. **Build a Lunch Picker Program**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-lunch-picker-program/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -971,7 +971,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [74. **Build a Golf Score Translator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-golf-score-translator/)
+#### [84. **Build a Golf Score Translator**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-golf-score-translator/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -982,7 +982,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [75. **Build a String Inverter**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-inverter/)
+#### [85. **Build a String Inverter**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-string-inverter/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -993,7 +993,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [76. **Build a Recipe Tracker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-recipe-tracker/)
+#### [86. **Build a Recipe Tracker**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-recipe-tracker/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1004,7 +1004,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [77. **Build a Quiz Game**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-quiz-game/)
+#### [87. **Build a Quiz Game**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-quiz-game/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1015,7 +1015,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [78. **Build a Record Collection**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-record-collection/)
+#### [88. **Build a Record Collection**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-record-collection/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1026,7 +1026,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [79. **Build a Sentence Analyzer**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-sentence-analyzer/)
+#### [89. **Build a Sentence Analyzer**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-sentence-analyzer/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1037,7 +1037,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [80. **Build a Longest Word Finder App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-longest-word-finder-app/)
+#### [90. **Build a Longest Word Finder App**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-longest-word-finder-app/)
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1048,7 +1048,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### [81. **Build a Factorial Calculator**]
+#### [91. **Build a Factorial Calculator**]
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1059,7 +1059,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 82. **Implement the Mutations Algorithm**
+#### 92. **Implement the Mutations Algorithm**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1070,7 +1070,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 83. **Implement the Chunky Monkey Algorithm**
+#### 93. **Implement the Chunky Monkey Algorithm**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1081,7 +1081,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 84. **Build a Profile Lookup**
+#### 94. **Build a Profile Lookup**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1092,7 +1092,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 85. **Build a String Repeating Function**
+#### 95. **Build a String Repeating Function**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1103,7 +1103,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 86. **Build a Missing Letter Detector**
+#### 96. **Build a Missing Letter Detector**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1114,7 +1114,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 87. **Build the Largest Number Finder**
+#### 97. **Build the Largest Number Finder**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1125,7 +1125,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 88. **Build a First Element Finder**
+#### 98. **Build a First Element Finder**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1136,7 +1136,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 89. **Implement the Slice and Spice Algorithm**
+#### 99. **Implement the Slice and Spice Algorithm**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1147,7 +1147,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 90. **Build a Pyramid Generator**
+#### 100. **Build a Pyramid Generator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1158,7 +1158,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 91. **Build a Gradebook App**
+#### 101. **Build a Gradebook App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1169,7 +1169,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 92. **Build a Title Case Converter**
+#### 102. **Build a Title Case Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1180,7 +1180,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 93. **Implement a Falsy Remover**
+#### 103. **Implement a Falsy Remover**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1191,7 +1191,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 94. **Build an Inventory Management Program**
+#### 104. **Build an Inventory Management Program**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1202,7 +1202,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 95. **Implement a Unique Sorted Union**
+#### 105. **Implement a Unique Sorted Union**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1213,7 +1213,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 96. **Build a Password Generator**
+#### 106. **Build a Password Generator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1224,7 +1224,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 97. **Design a Sum All Numbers Algorithm**
+#### 107. **Design a Sum All Numbers Algorithm**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1235,7 +1235,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 98. **Implement a DNA Pair Generator**
+#### 108. **Implement a DNA Pair Generator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1246,7 +1246,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 99. **Implement a HTML Entity Converter**
+#### 109. **Implement a HTML Entity Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1257,7 +1257,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 100. **Build an Odd Fibonacci Sum Calculator**
+#### 110. **Build an Odd Fibonacci Sum Calculator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1268,7 +1268,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 101. **Implement an Element Skipper**
+#### 111. **Implement an Element Skipper**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1279,7 +1279,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 102. **Build an Optional Arguments Sum Function**
+#### 112. **Build an Optional Arguments Sum Function**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1290,7 +1290,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 103. **Build a Library Manager**
+#### 113. **Build a Library Manager**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1301,7 +1301,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 104. **Build a Book Organizer**
+#### 114. **Build a Book Organizer**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1312,7 +1312,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 105. **Implement a Sorted Index Finder**
+#### 115. **Implement a Sorted Index Finder**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1323,7 +1323,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 106. **Build a Symmetrie Difference Function**
+#### 116. **Build a Symmetrie Difference Function**
 
 - **Languages:** _Lab_
 - **Practical Activity:** _Lab_
@@ -1334,7 +1334,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 107. **Build a Value Remover Function**
+#### 117. **Build a Value Remover Function**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1345,7 +1345,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 108. **Implement a Matching Object Filter**
+#### 118. **Implement a Matching Object Filter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1356,7 +1356,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 109. **Build a Prime Number Sum Calculator**
+#### 119. **Build a Prime Number Sum Calculator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1367,7 +1367,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 110. **Implement a Range-Based LCM Calculator**
+#### 120. **Implement a Range-Based LCM Calculator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1378,7 +1378,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 111. **Build an All-True Property Validator**
+#### 121. **Build an All-True Property Validator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1389,7 +1389,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 112. **Build a Storytelling App**
+#### 122. **Build a Storytelling App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1400,7 +1400,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 113. **Build an Emoji Reactor**
+#### 123. **Build an Emoji Reactor**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1411,7 +1411,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 114. **Build a Favorite Icon Toggler**
+#### 124. **Build a Favorite Icon Toggler**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1422,7 +1422,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 115. **Build a Music Instrument Filter**
+#### 125. **Build a Music Instrument Filter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1433,7 +1433,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 116. **Build a Real Time Counter**
+#### 126. **Build a Real Time Counter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1444,7 +1444,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 117. **Build a Lightbox Viewer**
+#### 127. **Build a Lightbox Viewer**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1455,7 +1455,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 118. **Build a Rock, Paper, Scissors Game**
+#### 128. **Build a Rock, Paper, Scissors Game**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1466,7 +1466,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 119. **Build a Set of Football Team Cards**
+#### 129. **Build a Set of Football Team Cards**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1477,7 +1477,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 120. **Build a Planets Tablist**
+#### 130. **Build a Planets Tablist**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1488,7 +1488,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 121. **Build a Note Taking App**
+#### 131. **Build a Note Taking App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1499,7 +1499,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 122. **Build a Theme Switcher**
+#### 132. **Build a Theme Switcher**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1510,7 +1510,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 123. **Debug a Random Background Color Changer**
+#### 133. **Debug a Random Background Color Changer**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1521,7 +1521,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 124. **Build a Spam Filter**
+#### 134. **Build a Spam Filter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1532,7 +1532,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 125. **Build a Palindrome Checker**
+#### 135. **Build a Palindrome Checker**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1543,7 +1543,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 126. **Build a Markdown to HTML Converter**
+#### 136. **Build a Markdown to HTML Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1554,7 +1554,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 127. **Build a RegEx Sandbox**
+#### 137. **Build a RegEx Sandbox**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1565,7 +1565,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 128. **Implement a Spinal Case Converter**
+#### 138. **Implement a Spinal Case Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1576,7 +1576,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 129. **Implement a Pig Latin Translator**
+#### 139. **Implement a Pig Latin Translator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1587,7 +1587,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 130. **Build a Smart Word Replacement Function**
+#### 140. **Build a Smart Word Replacement Function**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1598,7 +1598,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 131. **Build a Calorie Counter**
+#### 141. **Build a Calorie Counter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1609,7 +1609,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 132. **Build a Customer Complaint Form**
+#### 142. **Build a Customer Complaint Form**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1620,7 +1620,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 133. **Build a Date Conversion Program**
+#### 143. **Build a Date Conversion Program**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1631,7 +1631,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 134. **Build a Music Player**
+#### 144. **Build a Music Player**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1642,7 +1642,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 135. **Build a Drum Machine**
+#### 145. **Build a Drum Machine**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1653,7 +1653,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 136. **Build a Plant Nursery Catalogue**
+#### 146. **Build a Plant Nursery Catalogue**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1664,7 +1664,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 137. **Build a Voting System**
+#### 147. **Build a Voting System**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1675,7 +1675,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 138. **Build a Todo App**
+#### 148. **Build a Todo App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1686,7 +1686,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 139. **Build a Bookmark Manager App**
+#### 149. **Build a Bookmark Manager App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1697,7 +1697,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 140. **Build a Shopping Cart**
+#### 150. **Build a Shopping Cart**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1708,7 +1708,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 141. **Build a Project Idea Board**
+#### 151. **Build a Project Idea Board**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1719,7 +1719,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 142. **Build a Bank Account Management Program**
+#### 152. **Build a Bank Account Management Program**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1730,7 +1730,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 143. **Build a Decimal to Binary Converter**
+#### 153. **Build a Decimal to Binary Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1741,7 +1741,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 144. **Build a Permutation Generator**
+#### 154. **Build a Permutation Generator**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1752,7 +1752,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 145. **Build a Recipe Ingredient Converter**
+#### 155. **Build a Recipe Ingredient Converter**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1763,7 +1763,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 146. **Build a Sorting Visualizer**
+#### 156. **Build a Sorting Visualizer**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1774,7 +1774,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 147. **Build an fCC Authors Page**
+#### 157. **Build an fCC Authors Page**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Workshop_
@@ -1785,7 +1785,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 148. **Build an fCC Forum Leaderboard**
+#### 158. **Build an fCC Forum Leaderboard**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1796,7 +1796,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 149. **Build a Weather App**
+#### 159. **Build a Weather App**
 
 - **Languages:** _JavaScript_
 - **Practical Activity:** _Lab_
@@ -1814,7 +1814,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Front End Libraries section (Click to expand)</strong></summary>
 
-#### 150. **Build a Reusable Mega Navbar**
+#### 160. **Build a Reusable Mega Navbar**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1825,7 +1825,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 151. **Build a Reusable Footer**
+#### 161. **Build a Reusable Footer**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1836,7 +1836,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 152. **Build a Reusable Profile Card Component**
+#### 162. **Build a Reusable Profile Card Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1847,7 +1847,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 153. **Build a Mood Board**
+#### 163. **Build a Mood Board**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1858,7 +1858,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 154. **Toggle Text App**
+#### 164. **Toggle Text App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1869,7 +1869,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 155. **Build a Color Picker App**
+#### 165. **Build a Color Picker App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1880,7 +1880,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 156. **Build a Fruit Search App**
+#### 166. **Build a Fruit Search App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1891,7 +1891,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 157. **Build a One-Time Password Generator**
+#### 167. **Build a One-Time Password Generator**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1902,7 +1902,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 158. **Build a Superhero Application Form**
+#### 168. **Build a Superhero Application Form**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1913,7 +1913,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 159. **Build an Event RSVP**
+#### 169. **Build an Event RSVP**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1924,7 +1924,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 160. **Build a Shopping List App**
+#### 170. **Build a Shopping List App**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1935,7 +1935,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 161. **Build a Currency Converter**
+#### 171. **Build a Currency Converter**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1946,7 +1946,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 162. **Build a Tic-Tac-Toe Game**
+#### 172. **Build a Tic-Tac-Toe Game**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -1957,7 +1957,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 163. **Build an Error Message Component**
+#### 173. **Build an Error Message Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1968,7 +1968,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 164. **Build a CTA Component**
+#### 174. **Build a CTA Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1979,7 +1979,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 165. **Build a Pricing Component**
+#### 175. **Build a Pricing Component**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Workshop_
@@ -1990,7 +1990,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 166. **Build a Music Shopping Cart Page**
+#### 176. **Build a Music Shopping Cart Page**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -2001,7 +2001,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 167. **Design a Photography Exhibit**
+#### 177. **Design a Photography Exhibit**
 
 - **Languages:** _Soon_
 - **Practical Activity:** _Lab_
@@ -2019,7 +2019,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Python section (Click to expand)</strong></summary>
 
-#### 168. **Build a Caesar Cipher**
+#### 178. **Build a Caesar Cipher**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -2030,7 +2030,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
   
-#### 169. **Build a RPG Character**
+#### 179. **Build a RPG Character**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
@@ -2041,7 +2041,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 170. **Build a Pin Extractor**
+#### 180. **Build a Pin Extractor**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -2052,7 +2052,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 171. **Build a Number Pattern Generator**
+#### 181. **Build a Number Pattern Generator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
@@ -2063,7 +2063,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 172. **Build a Medical Data Validator**
+#### 182. **Build a Medical Data Validator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -2074,7 +2074,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 173. **Build a User Configuration Manager**
+#### 183. **Build a User Configuration Manager**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Workshop_
@@ -2085,7 +2085,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 174. **Debug an ISBN Validator**
+#### 184. **Debug an ISBN Validator**
 
 - **Languages:** _Python_
 - **Practical Activity:** _Lab_
@@ -2103,7 +2103,7 @@ This README is a bit messy here and there, but it will become better in a few we
 <details>
 <summary><strong>View all the projects from the Relational Databases section (Click to expand)</strong></summary>
 
-#### 175. **Build a Boilerplate**
+#### 185. **Build a Boilerplate**
 
 - **Languages:** _Bash_
 - **Practical Activity:** _Workshop_
@@ -2114,7 +2114,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 176. **Build a Database of Video Game Characters**
+#### 186. **Build a Database of Video Game Characters**
 
 - **Languages:** _PostgreSQL_
 - **Practical Activity:** _Workshop_
@@ -2125,7 +2125,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 177. **Build a Celestial Bodies Database**
+#### 187. **Build a Celestial Bodies Database**
 
 - **Languages:** _PostgreSQL_
 - **Practical Activity:** _Lab_
@@ -2136,7 +2136,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 178. **Build Five Programs**
+#### 188. **Build Five Programs**
 
 - **Languages:** _Bash_
 - **Practical Activity:** _Workshop_
@@ -2147,7 +2147,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 179. **Build a Student Database Part 1**
+#### 189. **Build a Student Database Part 1**
 
 - **Languages:** _Bash_ / _SQL_
 - **Practical Activity:** _Workshop_
@@ -2158,7 +2158,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 180. **Build a Student Database Part 2**
+#### 190. **Build a Student Database Part 2**
 
 - **Languages:** _SQL_
 - **Practical Activity:** _Workshop_
@@ -2169,7 +2169,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 181. **Build a Worldcup Database**
+#### 191. **Build a Worldcup Database**
 
 - **Languages:** _Bash_ / _PostgreSQL_
 - **Practical Activity:** _Lab_
@@ -2180,7 +2180,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 182. **Build a Kitty Ipsum Translator**
+#### 192. **Build a Kitty Ipsum Translator**
 
 - **Languages:** _Bash_
 - **Practical Activity:** _Workshop_
@@ -2191,7 +2191,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 183. **Build a Bike Rental Shop**
+#### 193. **Build a Bike Rental Shop**
 
 - **Languages:** _Bash_ / _PostgreSQL_
 - **Practical Activity:** _Workshop_
@@ -2202,7 +2202,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 184. **Build a Salon Appointment Scheduler**
+#### 194. **Build a Salon Appointment Scheduler**
 
 - **Languages:** _Bash_ / _PostgreSQL_
 - **Practical Activity:** _Lab_
@@ -2213,7 +2213,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 185. **Build a Castle**
+#### 195. **Build a Castle**
 
 - **Texteditor:** _Nano_
 - **Practical Activity:** _Workshop_
@@ -2224,7 +2224,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 186. **Build an SQL Reference Object**
+#### 196. **Build an SQL Reference Object**
 
 - **Tool** _Git_
 - **Practical Activity:** _Workshop_
@@ -2235,7 +2235,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 187. **Build a Periodic Table Database**
+#### 197. **Build a Periodic Table Database**
 
 - **Languages:** _Bash_
 - **Practical Activity:** _Lab_
@@ -2246,7 +2246,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
 
-#### 188. **Build a Number Guessing Game**
+#### 198. **Build a Number Guessing Game**
 
 - **Languages:** _Bash_ / _PostgreSQL_ / _Git_
 - **Practical Activity:** _Lab_
