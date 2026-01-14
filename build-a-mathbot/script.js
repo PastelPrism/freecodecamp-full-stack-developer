@@ -34,6 +34,15 @@ console.log("The Math.floor() method rounds the value down to the nearest whole 
 const numRoundedDown = Math.floor(6.7);
 console.log(numRoundedDown);
 
+// Add another console.log that logs a message
+console.log("Now, generate a random integer between two values.");
+
+// Create variable randomInt and generate a random integer between min and max
+const randomInt = Math.floor(Math.random() * (max - min) + min);
+
+// Log message to the console about min max integer 
+console.log(randomInt);
+
 // Log message to the console about Math.ceil()
 console.log("The Math.ceil() method rounds the value up to the nearest whole integer.");
 
