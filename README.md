@@ -102,7 +102,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [7. **Build a Travel Agency Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-travel-agency-page)
 
@@ -170,7 +170,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_ 
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [13. **Build Quincy's Job Tips Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-quincys-job-tips-page)
 
@@ -181,7 +181,7 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_ 
 - **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** _Soon_
+- **Extra Challenge Status:** ⏳
 
 #### [14. **Build a Cat Blog Page**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-cat-blog-page)
 
