@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {
+    font-family: 'Patrick Hand', 'Comic Sans MS', cursive;
+    background: linear-gradient(135deg, #d617ad, #101111);
+    color: #2b2620;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 40px;
+}
+
+.book {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: stretch;
+    margin-bottom: 24px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 2.4rem;
+    font-style: italic;
+    color: #f2c15a;
+}
+
+button {
+    
+    background: none;
+    border: none;
+    padding: 0;
+    margin-bottom: 0;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #2b2620;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    color: #dd9e5f;    
+}
+
+.story-card {
+    background: #fffaf2;
+    padding: 28px 22px;
+    flex: 0 0 240px;
+    min-height: 360px;
+    position: relative;
+    text-align: left;
+    margin: 0;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+}
+
+.story-card:first-child {
+    border-left: 10px solid #8c5a2b;
+    border-radius: 14px 0 0 14px;
+}
+
+.story-card:last-child {
+    border-right: 10px solid #8c5a2b;
+    border-radius: 0 14px 14px 0;
+}
+
+.next-page {
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+}
+
+.story-card h2 {
+    margin-top: 0;
+    text-align: center;
+    font-size: 1.6rem;
+    font-style: italic;
+    color: #f2c15a;
+}
+
+a {
+    color: #f2c15a;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    opacity: 0.85;
+    font-size: 1rem;
+    color: #f2c15a;
+    opacity: 1;
+}
+
+
+
