@@ -758,9 +758,9 @@ This README is a bit messy here and there, but it will become better in a few we
 - **Assignment Description:** _Build a sentence maker practising strings and concatenation_
 - **Assignment Page:** X (_Javascript only_)
 - **Assignment Status:** ✅
-- **Extra Challenge Description:** _Soon_
-- **Extra Challenge Page:** _Soon_
-- **Extra Challenge Status:** ⏳
+- **Extra Challenge Description:** _Make the JavaScript visual by creating a storybook_
+- **Extra Challenge Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-a-sentence-maker/extra)
+- **Extra Challenge Status:** ✅
 
 #### [65. **Build a Teacher Chatbot**](https://github.com/PastelPrism/freecodecamp-full-stack-developer/tree/main/build-a-teacher-chatbot/)
 
