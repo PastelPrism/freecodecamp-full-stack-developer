@@ -39,5 +39,3 @@ funnyStoryBtn.addEventListener("click", function () {
 adventureStoryBtn.addEventListener("click", function () {
   displayStory("adventure");
 });
-
-
