@@ -1402,11 +1402,11 @@ This README is a bit messy here and there, but it will become better in a few we
 
 #### 123. **Build an Emoji Reactor**
 
-- **Languages:** _JavaScript_
+- **Languages:** _HTML, CSS, JavaScript_
 - **Practical Activity:** _Workshop_
 - **Assignment Description:** _Soon_
-- **Assignment Page:** _Soon_
-- **Assignment Status:** ⏳
+- **Assignment Page:** [View here](https://pastelprism.github.io/freecodecamp-full-stack-developer/build-an-emoji-reactor/)
+- **Assignment Status:** ✅
 - **Extra Challenge Description:** _Soon_
 - **Extra Challenge Page:** _Soon_
 - **Extra Challenge Status:** ⏳
